@@ -41,3 +41,30 @@ S.Node = {
     prependTo: noop
 };
 
+
+// for nodejs
+
+process = {
+  cwd: function() {}
+  ,exit: function() {}
+  ,argv: []
+};
+
+stat = {
+  isDirectory: function() {}
+  ,isFile: function() {}
+};
+
+fs = {
+  statSync: function() {}
+  ,readdirSync: function() {}
+  ,readFileSync: function() {}
+  ,writeFileSync: function() {}
+};
+
+path = {
+  dirname: function() {}
+  ,basename: function() {}
+  ,existsSync: function() {}
+  ,extname: function() {}
+};
