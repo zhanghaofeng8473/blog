@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Issue Test</title>
+<script>
+  function printResults(txt, style) {
+    var d = document.createElement('div');
+    d.innerHTML = txt;
+    d.className = style;
+    document.getElementById('out').appendChild(d);
+  }
+</script>
+<script src="http://requirejs.org/docs/release/0.24.0/minified/require.js" data-main="./main"></script>
+</head>
+<body>
+
+<div id="out"></div>
+
+<script>
+
+  require(['main.js'], function(main) {
+    main.echo('It works!');
+    main.done();
+  });
+
+</script>
+
+</body>
+</html>

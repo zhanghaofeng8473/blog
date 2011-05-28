@@ -68,3 +68,12 @@ path = {
   ,existsSync: function() {}
   ,extname: function() {}
 };
+
+vm = {
+  runInNewContext: function() {}
+};
+
+document = {
+  createWindow: function() {}
+};
+

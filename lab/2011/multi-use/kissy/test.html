@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Issue Test</title>
+<script>
+  function printResults(txt, style) {
+    var d = document.createElement('div');
+    d.innerHTML = txt;
+    d.className = style;
+    document.getElementById('out').appendChild(d);
+  }
+</script>
+<script src="https://github.com/kissyteam/kissy/raw/master/build/seed.js"></script>
+</head>
+<body>
+
+<p>
+  <a href="https://github.com/seajs/seajs/issues/55">https://github.com/seajs/seajs/issues/55</a>
+</p>
+
+<div id="out"></div>
+
+<script>
+
+  KISSY.add({
+        'main': {
+          fullpath: './main.js'
+        },
+        'test': {
+          fullpath: './test.js.php'
+        }
+      });
+
+  KISSY.use('main', function(S, main) {
+    main.echo(1);
+  });
+
+
+  setTimeout(function() {
+    console.log('start use main second');
+    KISSY.use('main', function(S, main) {
+      main.echo(2);
+      main.done();
+    });
+  }, 1000);
+
+</script>
+
+
+</body>
+</html>
