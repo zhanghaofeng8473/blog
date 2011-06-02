@@ -60,6 +60,9 @@ fs = {
   ,readdirSync: function() {}
   ,readFileSync: function() {}
   ,writeFileSync: function() {}
+  ,mkdirSync: function() {}
+  ,unlinkSync: function() {}
+  ,rmdirSync: function() {}
 };
 
 path = {
@@ -77,3 +80,6 @@ document = {
   createWindow: function() {}
 };
 
+assert = {
+  ok: function() {}
+};
