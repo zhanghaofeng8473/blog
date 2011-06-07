@@ -1,6 +1,6 @@
 define(function(require) {
 
-  var $ = require('jquery');
+  var $ = require('jquery:1.6.1');
   require('./fancybox/jquery.fancybox-1.3.4.js')($);
 
 
