@@ -83,3 +83,8 @@ document = {
 assert = {
   ok: function() {}
 };
+
+
+var FileReader = function() {};
+FileReader.prototype.readAsDataURL = function() {};
+FileReader.prototype.onload = function() {};
