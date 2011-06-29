@@ -11,10 +11,10 @@ define(function() {
   ]);
 
   // rms
-  rules.push([
-    'http://assets.daily.taobao.net/apps/tms/rms/',
-    'http://localhost/~lifesinger/svn/apps/tms/rms/'
-  ]);
+//  rules.push([
+//    'http://assets.daily.taobao.net/apps/tms/rms/',
+//    'http://localhost/~lifesinger/svn/apps/tms/rms/'
+//  ]);
 
 
   // map rules
