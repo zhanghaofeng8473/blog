@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Avatar Upload Demo</title>
+</head>
+<body>
+
+<style>
+
+  #bigdiv {
+    display: inline-block;
+  }
+  
+  #bigimg {
+    max-width: 192px;
+    max-height: 192px;
+    border: 1px solid #eee;
+  }
+
+  #prediv {
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    display: inline-block;
+    border: 1px solid #eee;
+    margin: 0 10px;
+  }
+
+</style>
+
+<form action="save.php" enctype="multipart/form-data" method="post">
+
+  <div class="user-avatar">
+    <div id="bigdiv"><img id="bigimg" src="default.png"/></div>
+    <div id="prediv"></div>
+    <input type="file" id="chooseFile" name="avatar"/>
+    <input type="hidden" id="imgpos" name="imgpos" value="0_0_0_0" autocomplete="off"/>
+  </div>
+
+  <br/>
+  <br/>
+
+  <button>Submit</button>
+
+</form>
+
+<script src="libs/seajs/0.9.6/sea.js" data-main="./init"></script>
+
+</body>
+</html>

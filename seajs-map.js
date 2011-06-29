@@ -17,6 +17,7 @@ define(function() {
   ]);
 
 
+  // map rules
   seajs.config({'map': rules});
 
 });

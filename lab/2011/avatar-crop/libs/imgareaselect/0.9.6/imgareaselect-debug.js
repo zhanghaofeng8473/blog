@@ -826,7 +826,7 @@ $.imgAreaSelect = function (img, options) {
                 fixAspectRatio(true);
                 break;
             default:
-                return;
+                return false;
             }
 
             doResize();
@@ -855,7 +855,7 @@ $.imgAreaSelect = function (img, options) {
                 doMove(x1, y1 + min(d, imgHeight - selY(y2)));
                 break;
             default:
-                return;
+                return false;
             }
         }
 
