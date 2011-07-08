@@ -6,15 +6,15 @@ define(function() {
 
   // markzhi
   rules.push([
-    'http://markzhi.net/assets/',
+    'http://markzhi.com/assets/',
     'http://localhost/~lifesinger/markzhi/portal/src/main/webapp/assets/'
   ]);
 
   // rms
-//  rules.push([
-//    'http://assets.daily.taobao.net/apps/tms/rms/',
-//    'http://localhost/~lifesinger/svn/apps/tms/rms/'
-//  ]);
+  rules.push([
+    'http://assets.taobaocdn.com/apps/tms/rms/',
+    'http://localhost/~lifesinger/svn/apps/tms/rms/'
+  ]);
 
 
   // map rules
