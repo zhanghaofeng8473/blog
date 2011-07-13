@@ -10,10 +10,10 @@ define(function() {
     'http://localhost/~lifesinger/markzhi/portal/src/main/webapp/assets/'
   ]);
 
-  // rms
+  // tms
   rules.push([
-    'http://assets.taobaocdn.com/apps/tms/rms/',
-    'http://localhost/~lifesinger/svn/apps/tms/rms/'
+    'http://assets.taobaocdn.com/apps/tms/',
+    'http://localhost/~lifesinger/svn/apps/tms/'
   ]);
 
 
