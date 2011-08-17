@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Crazy Test</title>
+</head>
+<body>
+
+<script src="http://yui.yahooapis.com/combo?3.3.0/build/yui/yui-min.js&3.3.0/build/oop/oop-min.js"></script>
+
+<script>
+
+  YUI().use('*', function(Y) {
+
+    var Person = function () {}
+    function Stuff() {}
+    function Developer() {}
+
+    Y.extend(Stuff, Person);
+    Y.extend(Developer, Stuff);
+
+    var dev = new Developer();
+    console.dir(dev);
+
+  });
+
+</script>
+
+</body>
+</html>

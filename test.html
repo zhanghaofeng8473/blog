@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Crazy Test</title>
 </head>
-<body style="background-color: black; color: white; ">
+<body>
 
 <!--<script src="http://yui.yahooapis.com/3.3.0/build/yui/yui-min.js"></script>-->
 
@@ -12,24 +12,21 @@
 
 <!--<iframe id="test-iframe" src="iframe.html"></iframe>-->
 
+<div id="test"></div>
+
+
+
 <script>
 
+  var t = document.getElementById('test');
+
+  var div = document.createElement('DIV');
+  div.innerHTML = 'html 4 - <script>alert("set innerHTML via appendChild + defer");<\/script>';
+ // t.appendChild(div);
 
 </script>
 
 <script src="test.js"></script>
-
-
-<form id="testForm">
-  <input type="checkbox" name="fileID">
-</form>
-
-<script>
-
-  var testForm = document.getElementById('testForm');
-  console.dir(testForm.fileID.length);
-
-</script>
 
 </body>
 </html>

@@ -2,9 +2,10 @@
 const PROXY = 'PROXY localhost:8888';
 
 var rules = [
-  'google.com'
-  ,'twitter.com'
+  'google'
+  ,'twitter'
   ,'blogspot.com'
+  ,'blogger.com'
   ,'appspot.com'
   ,'cloudfront.net'
 ];
@@ -23,4 +24,7 @@ function FindProxyForURL(url, host) {
   return 'DIRECT';
 }
 
-// javascript:void((function(){var url=(document.getElementsByClassName('failedUrl')[0]||0).innerHTML;if(url){location.replace(url+(url.indexOf('?')===-1?'?':'&')+'no-gfw')}})());
+//((function() {
+  //var url = (document.querySelector('.failedUrl') || 0).innerHTML || document.querySelector('ul a').href;
+  //if (url) {location.replace(url + (url.indexOf('?') === -1 ? '?' : '&') + 'no-gfw')}
+//})());

@@ -7,9 +7,16 @@
 <body>
 <h2>InnerHTML and Script Tags</h2>
 
-<div id="test">test</div>
+<div id="test1">test1</div>
 <div id="test2">test2</div>
 <div id="test3">test3</div>
+<div id="test4">test4</div>
+<div id="test5">test5</div>
+<div id="test6">test6</div>
+<div id="test7">test7</div>
+<div id="test8">test8</div>
+<div id="test9">test9</div>
+<div id="test10">test10</div>
 
 <h2>References</h2>
 <ul>
@@ -20,57 +27,88 @@
     <li><a href="http://24ways.org/2005/have-your-dom-and-script-it-too">Have Your DOM and Script It Too</a></li>
 </ul>
 
-<script src="http://kissy.googlecode.com/svn/trunk/build/packages/ks-core-min.js"></script>
+<!--<script src="http://kissy.googlecode.com/svn/trunk/build/packages/ks-core-min.js"></script>-->
+<script src="http://a.tbcdn.cn/s/kissy/1.1.6/kissy-min.js"></script>
+
 <script>
 
     var doc = document, bd = doc.body,
         S = KISSY, DOM = S.DOM,
-        t = doc.getElementById('test'),
+        t1 = doc.getElementById('test1'),
         t2 = doc.getElementById('test2'),
         t3 = doc.getElementById('test3'),
+        t4 = doc.getElementById('test4'),
+        t5 = doc.getElementById('test5'),
+        t6 = doc.getElementById('test6'),
+        t7 = doc.getElementById('test7'),
+        t8 = doc.getElementById('test8'),
+        t9 = doc.getElementById('test9'),
+        t10 = doc.getElementById('test10'),
+
+        t1b = doc.createElement('div'),
+        t2b = doc.createElement('div'),
+        t3b = doc.createElement('div'),
+        t4b = doc.createElement('div'),
+        t5b = doc.createElement('div'),
+        t6b = doc.createElement('div'),
+        t7b = doc.createElement('div'),
+        t8b = doc.createElement('div'),
+        t9b = doc.createElement('div'),
+        t10b = doc.createElement('div'),
+
         div;
 
     /////////////////////////////////////////////////
     // 一、inline script 的执行
 
     // 所有浏览器都不会执行 script 内容
-    t.innerHTML = 'html 1<script>alert("set innerHTML directly");<\/script>';
+    t1.innerHTML = 'html 1<script>alert("set innerHTML directly");<\/script>';
+    t1b.innerHTML = 'html 1<script>alert("set innerHTML directly");<\/script>';
 
     // ie 会执行
-    t.innerHTML = 'html 2<script defer>alert("set innerHTML via defer");<\/script>';
+    t2.innerHTML = 'html 2<script defer>alert("set innerHTML via defer");<\/script>';
+    t2b.innerHTML = 'html 2<script defer>alert("set innerHTML via defer");<\/script>';
     // 测试纯 script - ie 下不会执行。解决办法是在 script 前面加任意一个字符，比如 -
-    t.innerHTML = '<script defer>alert("set innerHTML(only script) via defer");<\/script>';
+    t3.innerHTML = '<script defer>alert("set innerHTML(only script) via defer");<\/script>';
+    t3b.innerHTML = '<script defer>alert("set innerHTML(only script) via defer");<\/script>';
 
     // firefox 会执行
     div = doc.createElement('DIV');
-    div.innerHTML = 'html 3<script>alert("set innerHTML via appendChild");<\/script>';
-    t.appendChild(div);
+    div.innerHTML = 'html 4<script>alert("set innerHTML via appendChild");<\/script>';
+    t4.appendChild(div);
+    t4b.appendChild(div);
 
     // firefox 和 ie 会执行
     div = doc.createElement('DIV');
-    div.innerHTML = 'html 4<script defer>alert("set innerHTML via appendChild + defer");<\/script>';
-    t.appendChild(div);
+    div.innerHTML = 'html 5<script defer>alert("set innerHTML via appendChild + defer");<\/script>';
+    t5.appendChild(div);
+    t5b.appendChild(div);
 
     // 所有浏览器都执行
     // 解析出 inline script 代码段，再 globalEval, 详见 KISSY.DOM.html 方法的实现
-    DOM.html(t, 'html 6<script>alert("set innerHTML via KISSY.DOM.html()");<\/script>', true);
+    DOM.html(t6, 'html 6<script>alert("set innerHTML via KISSY.DOM.html()");<\/script>', true);
+    DOM.html(t6b, 'html 6<script>alert("set innerHTML via KISSY.DOM.html()");<\/script>', true);
 
     // 所有浏览器都会执行
-    t.innerHTML = 'html 5<img src="http://lifesinger.org/blog/wp-content/uploads/avatar2009.png" onload="alert(\'set innerHTML via image onload\')" />';
-    
+    t7.innerHTML = 'html 7<img src="http://img02.taobaocdn.com/tps/i2/T1iQhUXnxpXXXXXXXX-171-48.png" onload="alert(\'set innerHTML via image onload\')" />';
+    t7b.innerHTML = 'html 7<img src="http://img02.taobaocdn.com/tps/i2/T1iQhUXnxpXXXXXXXX-171-48.png" onload="alert(\'set innerHTML via image onload\')" />';
+
 
     /////////////////////////////////////////////////
     // 二、src script 的执行
 
     // 所有浏览器都不会执行
-    t2.innerHTML = 'html 1<script src="innerhtml-and-script-tags.js"><\/script>';
+    t8.innerHTML = 'html 8<script src="innerhtml-and-script-tags.js"><\/script>';
+    t8b.innerHTML = 'html 8<script src="innerhtml-and-script-tags.js"><\/script>';
 
     // 所有浏览器都不会执行
-    t2.innerHTML = 'html 2<script defer src="innerhtml-and-script-tags.js"><\/script>';
+    t9.innerHTML = 'html 9<script defer src="innerhtml-and-script-tags.js"><\/script>';
+    t9b.innerHTML = 'html 9<script defer src="innerhtml-and-script-tags.js"><\/script>';
 
     // 所有浏览器都执行
     // 解析出 script src， 动态创建 script, 添加到 head 里，详见 KISSY.DOM.html 方法的实现
-    DOM.html(t2, 'html 3<script src="innerhtml-and-script-tags.js"><\/script>', true);
+    DOM.html(t10, 'html 10<script src="innerhtml-and-script-tags.js"><\/script>', true);
+    DOM.html(t10b, 'html 10<script src="innerhtml-and-script-tags.js"><\/script>', true);
 
 
     /////////////////////////////////////////////////
