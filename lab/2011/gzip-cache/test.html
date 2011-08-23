@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Crazy Test</title>
+</head>
+<body>
+
+
+<script>
+  var t1 = new Date().getTime();
+</script>
+<script src="1.js"></script>
+<script>
+  var t2 = new Date().getTime();
+  new Image().src = (t2 - t1);
+</script>
+
+
+</body>
+</html>

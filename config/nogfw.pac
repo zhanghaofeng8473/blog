@@ -8,6 +8,11 @@ var rules = [
   ,'blogger.com'
   ,'appspot.com'
   ,'cloudfront.net'
+  ,'t.co'
+  ,'facebook.com'
+  ,'fbcdn.net'
+  ,'phpied.com'
+  ,'dropbox.com'
 ];
 
 function FindProxyForURL(url, host) {

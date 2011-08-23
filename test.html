@@ -8,21 +8,24 @@
 
 <!--<script src="http://yui.yahooapis.com/3.3.0/build/yui/yui-min.js"></script>-->
 
-<!--<script src="../spm/modules/seajs/0.9.2/sea.js"></script>-->
+<script src="../modules/seajs/1.0.1/sea.js"></script>
 
 <!--<iframe id="test-iframe" src="iframe.html"></iframe>-->
 
 <div id="test"></div>
+<div id="test2"></div>
+<div id="test3"></div>
+<div id="test4"></div>
 
 
 
 <script>
 
-  var t = document.getElementById('test');
+  seajs.use('jquery/1.6.2/jquery-debug', function(jQuery) {
 
-  var div = document.createElement('DIV');
-  div.innerHTML = 'html 4 - <script>alert("set innerHTML via appendChild + defer");<\/script>';
- // t.appendChild(div);
+    this.$ = jQuery;
+
+  });
 
 </script>
 
