@@ -1,5 +1,6 @@
 
 const PROXY = 'PROXY localhost:8888';
+const DIRECT = 'DIRECT';
 
 var rules = [
   'google'
@@ -9,15 +10,21 @@ var rules = [
   ,'appspot.com'
   ,'cloudfront.net'
   ,'t.co'
+  ,'bit.ly'
+  ,'j.mp'
   ,'facebook.com'
   ,'fbcdn.net'
   ,'phpied.com'
   ,'dropbox.com'
+  ,'wordpress.com'
 ];
 
 function FindProxyForURL(url, host) {
   if (url.indexOf('no-gfw') !== -1) {
     return PROXY;
+  }
+  if (url.indexOf('direct') !== -1) {
+    return DIRECT;
   }
 
   for (var i = 0; i < rules.length; i++) {
@@ -26,7 +33,7 @@ function FindProxyForURL(url, host) {
     }
   }
 
-  return 'DIRECT';
+  return DIRECT;
 }
 
 //((function() {

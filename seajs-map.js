@@ -22,6 +22,11 @@ define(function() {
     'http://localhost/~lifesinger/svn/assets/apps/tms/'
   ]);
 
+  // bigrender
+  rules.push([
+    'http://a.tbcdn.cn/p/shop/1.0/bigrender.js',
+    'http://localhost/~lifesinger/svn/assets/p/shop/1.0/bigrender.js'
+  ]);
   
   // modules
 //  rules.push([

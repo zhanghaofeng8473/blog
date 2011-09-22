@@ -56,12 +56,19 @@ stat = {
 };
 
 fs = {
-  statSync: function() {}
+  stat: function() {}
+  ,statSync: function() {}
+  ,readdir: function() {}
   ,readdirSync: function() {}
+  ,readFile: function() {}
   ,readFileSync: function() {}
+  ,writeFile: function() {}
   ,writeFileSync: function() {}
+  ,mkdir: function() {}
   ,mkdirSync: function() {}
+  ,unlink: function() {}
   ,unlinkSync: function() {}
+  ,rmdir: function() {}
   ,rmdirSync: function() {}
 };
 
@@ -88,3 +95,17 @@ assert = {
 var FileReader = function() {};
 FileReader.prototype.readAsDataURL = function() {};
 FileReader.prototype.onload = function() {};
+
+res = {
+  on: function() {}
+};
+
+events = {
+  EventEmitter: function() {}
+};
+
+util = {
+  inherits: function() {}
+};
+
+assert['throws'] = function() {};
