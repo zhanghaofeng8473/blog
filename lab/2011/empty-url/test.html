@@ -1,0 +1,68 @@
+<?php header('Cache-Control:no-cache'); ?>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Empty Url Test</title>
+<style>
+  iframe { border: 1px solid #333; width: 200px; height: 80px }
+</style>
+</head>
+<body>
+
+<p>**** PLEASE download test files, and run it in your PHP environment.</p>
+
+<iframe src="img-empty-src.php"></iframe>
+<iframe src="img-hash-src.php"></iframe>
+
+<iframe src="script-empty-src.php"></iframe>
+<iframe src="script-hash-src.php"></iframe>
+
+<iframe src="link-empty-src.php"></iframe>
+<iframe src="link-hash-src.php"></iframe>
+
+<iframe src="bg-empty-url.php"></iframe>
+<iframe src="bg-hash-url.php"></iframe>
+<iframe src="bg-empty-url-link.php"></iframe>
+<iframe src="bg-hash-url-link.php"></iframe>
+
+<h2>Summary</h2>
+
+
+<pre>
+              img src=""    img src="#"     script src=""     script src="#"    link href=""    link href="#"   background url()       background url('#')     background url() link     background url('#') link
+
+  Chrome 14       url           url            url                 url              url             url              url                    url                      css -                     css -
+  Firefox 6       url -         url -          url -               url -            url -           url -            url                    url                      css -                     css -
+  IE 9            none          url            none                url              none            url              none                   index                    none                      css 304
+
+
+
+
+  NOTICE:
+
+   none: none request is send, it is GOOD!
+    url: http://test.com/path/test.php
+  index: http://test.com/path/
+    css: http://test.com/path/test.css
+
+  "-" represents that it is fetched from browser cache.
+
+  background url('') is the same as background url()
+  background url('#') is the same as background url(#)
+  background-image is the same as background
+
+  You should turn on "Show BF Cache Responses" in Firebug.
+
+</pre>
+
+
+<h2>References</h2>
+
+<ol>
+  <li><a href="http://www.nczonline.net/blog/2009/11/30/empty-image-src-can-destroy-your-site/">Empty image src can destroy your site</a></li>
+  <li><a href="http://lifesinger.wordpress.com/2011/09/22/empty-src-is-dangerous/ ‎">Empty src is danerous</a></li>
+</ol>
+
+</body>
+</html>
