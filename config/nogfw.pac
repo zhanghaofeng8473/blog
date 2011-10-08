@@ -5,6 +5,8 @@ const DIRECT = 'DIRECT';
 var rules = [
   'google'
   ,'twitter'
+  ,'youtube'
+  ,'ytimg.com'
   ,'blogspot.com'
   ,'blogger.com'
   ,'appspot.com'

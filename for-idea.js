@@ -47,6 +47,7 @@ S.Node = {
 process = {
   cwd: function() {}
   ,exit: function() {}
+  ,stdout: function() {}
   ,argv: []
 };
 
@@ -70,6 +71,8 @@ fs = {
   ,unlinkSync: function() {}
   ,rmdir: function() {}
   ,rmdirSync: function() {}
+  ,realpath: function() {}
+  ,realpathSync: function() {}
 };
 
 path = {
