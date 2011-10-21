@@ -112,3 +112,9 @@ util = {
 };
 
 assert['throws'] = function() {};
+
+request = {
+  socket: {
+    setTimeout: function() {}
+  }
+};

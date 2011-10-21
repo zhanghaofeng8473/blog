@@ -19,6 +19,7 @@ var rules = [
   ,'phpied.com'
   ,'dropbox.com'
   ,'wordpress.com'
+  ,'npmjs.org'
 ];
 
 function FindProxyForURL(url, host) {
