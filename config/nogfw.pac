@@ -20,6 +20,8 @@ var rules = [
   ,'dropbox.com'
   ,'wordpress.com'
   ,'npmjs.org'
+  ,'nodejs.org'
+  ,'lesscss.org'
 ];
 
 function FindProxyForURL(url, host) {
