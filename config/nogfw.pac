@@ -1,5 +1,6 @@
 
-const PROXY = 'PROXY localhost:8888';
+//const PROXY = 'PROXY 127.0.0.1:8888';
+const PROXY = 'PROXY 127.0.0.1:1984';
 const DIRECT = 'DIRECT';
 
 var rules = [
