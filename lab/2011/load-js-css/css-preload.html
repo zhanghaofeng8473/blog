@@ -88,6 +88,23 @@
     document.getElementById('out').appendChild(p);
   }
 
+
+  // 2011-11-08 update:
+  function testOnload(url) {
+    var s = document.createElement('link');
+    s.rel = 'stylesheet';
+    s.onload = function() {
+      print('style.onload is fired.');
+    };
+    s.onerror = function() {
+      print('style.onerror is fired.');
+    };
+    s.href = url + '?' + timestamp;
+    head.appendChild(s);
+  }
+
+  testOnload('empty.css');
+
 </script>
 
 

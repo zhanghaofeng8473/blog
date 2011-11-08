@@ -23,6 +23,7 @@ var rules = [
   ,'npmjs.org'
   ,'nodejs.org'
   ,'lesscss.org'
+  ,'quora.com'
 ];
 
 function FindProxyForURL(url, host) {
