@@ -1,6 +1,8 @@
 
-//const PROXY = 'PROXY 127.0.0.1:8888';
-const PROXY = 'PROXY 127.0.0.1:1984';
+//const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
+//const PROXY = 'PROXY 10.13.35.62:8118'; // ali
+
+const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
 const DIRECT = 'DIRECT';
 
 var rules = [
