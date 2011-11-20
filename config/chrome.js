@@ -4,37 +4,61 @@
 
   var host = location.host;
 
-  function better() {
+  var fns = {
 
-    if (~host.indexOf('google.com')) {
-
-      // no Google+ notification
-      var gbi1 = document.getElementById('gbi1');
-      if (gbi1) {
-        gbi1.className = '';
-      }
+    'google.com': function() {
+      // no Google+ notifications
+      hideIfExists('#gbi1');
 
       // no Ads
-      [].forEach.call(document.querySelectorAll('.adC'), function(container) {
-        container.style.display = 'none';
+      [].forEach.call(document.querySelectorAll('.adC'), function(adC) {
+        hideIfExists(adC);
       });
 
       // no search header in google calendar
       if (~location.pathname.indexOf('/calendar/')) {
-        var vrHeader = document.getElementById('vr-header');
-        if (vrHeader) vrHeader.style.display = 'none';
-     }
+        hideIfExists('#vr-header');
+      }
+    },
 
-    }
-    else if (~host.indexOf('weibo.com')) {
-
+    'weibo.com': function() {
       // no pullylist
-      var pullylist = document.getElementById('pl_content_pullylist');
-      if (pullylist) pullylist.style.display = 'none';
+      hideIfExists('#pl_content_pullylist');
+    },
 
+    'github.com': function() {
+      // no notifications
+      hideIfExists('#header .notifications_count');
+    }
+  };
+
+
+  function hideIfExists(o) {
+    var elem;
+
+    if (typeof o === 'string') {
+      elem = document.querySelector(o);
+    }
+    else if (o.nodeType === 1) {
+      elem = o;
     }
 
+    if (elem) {
+      elem.style.display = 'none';
+    }
   }
 
-  window.addEventListener('DOMContentLoaded', better, false);
+
+  // init
+  window.addEventListener('DOMContentLoaded', function() {
+
+    Object.keys(fns).some(function(key) {
+      if (~host.indexOf(key)) {
+        fns[key]();
+        return true;
+      }
+    });
+
+  }, false);
+
 })();
