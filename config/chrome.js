@@ -11,7 +11,7 @@
       hideIfExists('#gbgs1');
 
       // no right sidebar
-      hideIfExists('.Bu');
+      hideIfExists(document.querySelectorAll('td.Bu')[2]);
 
       // no search header in google calendar
       if (~location.pathname.indexOf('/calendar/')) {
