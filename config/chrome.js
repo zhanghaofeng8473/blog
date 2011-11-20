@@ -60,7 +60,8 @@
   // run immediately
   run();
 
-  // register for dom ready
+  // register for events
   window.addEventListener('DOMContentLoaded', run, false);
+  window.addEventListener('hashchange', run, false);
 
 })();
