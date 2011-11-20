@@ -10,10 +10,8 @@
       // no Google+ notifications
       hideIfExists('#gbgs1');
 
-      // no Ads
-      [].forEach.call(document.querySelectorAll('.adC'), function(adC) {
-        hideIfExists(adC);
-      });
+      // no right sidebar
+      hideIfExists('.Bu');
 
       // no search header in google calendar
       if (~location.pathname.indexOf('/calendar/')) {
