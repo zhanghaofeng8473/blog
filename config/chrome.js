@@ -37,7 +37,7 @@
     if (typeof o === 'string') {
       elem = document.querySelector(o);
     }
-    else if (o.nodeType === 1) {
+    else if (o && o.nodeType === 1) {
       elem = o;
     }
 
