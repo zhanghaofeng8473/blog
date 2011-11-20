@@ -8,7 +8,7 @@
 
     'google.com': function() {
       // no Google+ notifications
-      hideIfExists('#gbi1');
+      hideIfExists('#gbgs1');
 
       // no Ads
       [].forEach.call(document.querySelectorAll('.adC'), function(adC) {
