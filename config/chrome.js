@@ -49,16 +49,20 @@
   }
 
 
-  // init
-  window.addEventListener('DOMContentLoaded', function() {
-
+  function run() {
     Object.keys(fns).some(function(key) {
       if (~host.indexOf(key)) {
         fns[key]();
         return true;
       }
     });
+  }
 
-  }, false);
+
+  // run immediately
+  run();
+
+  // register for dom ready
+  window.addEventListener('DOMContentLoaded', run, false);
 
 })();
