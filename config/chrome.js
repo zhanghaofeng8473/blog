@@ -11,7 +11,11 @@
       hideIfExists('#gbgs1');
 
       // no right sidebar
-      hideIfExists(document.querySelectorAll('td.Bu')[2]);
+      try {
+      hideIfExists(document.getElementById('canvas_frame')
+          .contentDocument.querySelectorAll('td.Bu')[2]);
+      }
+      catch(e) {}
 
       // no search header in google calendar
       if (~location.pathname.indexOf('/calendar/')) {
@@ -22,6 +26,9 @@
     'weibo.com': function() {
       // no pullylist
       hideIfExists('#pl_content_pullylist');
+
+      // no right side
+      hideIfExists('#Box_right');
     },
 
     'github.com': function() {
