@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Force GZip</title>
+</head>
+<body>
+<ol>
+  <li>浏览器请求 test.html</li>
+  <li>服务器接收到请求，检查请求头里是否有 Accept-Encoding: gzip 或 Cookie 中含有 GZ=1</li>
+  <li>如果有，正常返回 gzip 版本</li>
+  <li>如果没有，则返回未压缩版本，并在 html 文件末尾追加一段代码 get_gzip_html_script, 请求 gzip.html</li>
+  <li>gzip.html 是强制 gzip 压缩的，如果能正常运行，说明浏览器支持 gzip</li>
+</ol>
+
+<p>需要请求两个 gzip.html:</p>
+<ol>
+  <li>一个具体应用根路径的： http://xx.taobao.com/gzip.html</li>
+  <li>还有一个是 assets 资源的：http://a.tbcdn.cn/gzip.html</li>
+  <li>两个 gzip.html 的内容是一样的</li>
+  <li>设置的 cookie 是 session 有效的</li>
+</ol>
+
+<p>get_gzip_html_script:</p>
+<pre>
+&lt;script&gt;
+(function(d, s, f) {
+function g(s) {
+  d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
+}
+try {
+  g('/gzip.html');
+  g(('https:' === d.location.protocol ? 'https://s' : 'http://a') + '.tbcdn.cn/gzip.html');
+} catch(e) {}
+})(document);
+&lt;/script&gt;
+</pre>
+
+<p>gzip.html:</p>
+<pre>
+&lt;script&gt;
+document.cookie = 'GZ=1;path=/';
+&lt;/script&gt;
+</pre>
+</body>
+</html>
+
+<script>
+(function(d, s, f) {
+function g(s) {
+  d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
+}
+try {
+  g('/gzip.html');
+  g(('https:' === d.location.protocol ? 'https://s' : 'http://a') + '.tbcdn.cn/gzip.html');
+} catch(e) {}
+})(document);
+</script>
