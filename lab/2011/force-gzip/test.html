@@ -24,7 +24,7 @@
 <p>get_gzip_html_script:</p>
 <pre>
 &lt;script&gt;
-(function(d, s, f) {
+(function(d) {
 function g(s) {
   d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
 }
@@ -46,7 +46,8 @@ document.cookie = 'GZ=1;path=/';
 </html>
 
 <script>
-(function(d, s, f) {
+/*
+(function(d) {
 function g(s) {
   d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
 }
@@ -55,4 +56,5 @@ try {
   g(('https:' === d.location.protocol ? 'https://s' : 'http://a') + '.tbcdn.cn/gzip.html');
 } catch(e) {}
 })(document);
+*/
 </script>
