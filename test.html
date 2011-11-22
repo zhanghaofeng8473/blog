@@ -8,7 +8,7 @@
 
 <!--<script src="http://yui.yahooapis.com/3.3.0/build/yui/yui-min.js"></script>-->
 
-<script src="../spm/modules/seajs/1.0.2/sea-debug.js"></script>
+<script src="../spm/modules/seajs/1.1.0/sea-debug.js"></script>
 
 <!--<iframe id="test-iframe" src="iframe.html"></iframe>-->
 
@@ -16,10 +16,13 @@
 
 <script>
 
-  var a = 1;
+
+  seajs.pluginSDK.util.getAsset('test.js', function() {
+
+
+  });
 
 </script>
 
-<script src="test.js"></script>
 </body>
 </html>

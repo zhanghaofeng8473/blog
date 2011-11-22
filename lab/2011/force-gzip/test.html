@@ -28,10 +28,11 @@
 function g(s) {
   d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
 }
-try {
+try { if (!~d.cookie.indexOf('GZ=')) {
+  d.cookie = 'GZ=0;path=/';
   g('/gzip.html');
   g(('https:' === d.location.protocol ? 'https://s' : 'http://a') + '.tbcdn.cn/gzip.html');
-} catch(e) {}
+}} catch(e) {}
 })(document);
 &lt;/script&gt;
 </pre>
@@ -44,17 +45,3 @@ document.cookie = 'GZ=1;path=/';
 </pre>
 </body>
 </html>
-
-<script>
-/*
-(function(d) {
-function g(s) {
-  d.body.appendChild(((f = d.createElement('iframe')).style.display = 'none',f.src = s,f));
-}
-try {
-  g('/gzip.html');
-  g(('https:' === d.location.protocol ? 'https://s' : 'http://a') + '.tbcdn.cn/gzip.html');
-} catch(e) {}
-})(document);
-*/
-</script>
