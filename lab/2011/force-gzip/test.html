@@ -7,9 +7,9 @@
 <body>
 <ol>
   <li>浏览器请求 test.html</li>
-  <li>服务器接收到请求，检查请求头里是否有 Accept-Encoding: gzip 或 Cookie 中含有 GZ=1</li>
-  <li>如果有，正常返回 gzip 版本</li>
-  <li>如果没有，则返回未压缩版本，并在 html 文件末尾追加一段代码 get_gzip_html_script, 请求 gzip.html</li>
+  <li>服务器接收到请求，检查是否满足： 有 Accept-Encoding: gzip 且 Cookie 中没有 GZ=</li>
+  <li>如果满足条件，正常返回 gzip 版本</li>
+  <li>如果不满足，则返回未压缩版本，并在 html 文件末尾追加一段代码 get_gzip_html_script, 请求 gzip.html</li>
   <li>gzip.html 是强制 gzip 压缩的，如果能正常运行，说明浏览器支持 gzip</li>
 </ol>
 
