@@ -1,99 +1,55 @@
-var S = KISSY,
-    noop = function() {
-    };
+global = {};
 
-window.console = {
-    log: noop,
-    warn: noop,
-    info: noop,
-    dir: noop
+console = {
+    'log': function() {},
+    'warn': function() {},
+    'info': function() {},
+    'dir': function() {}
 };
 
-// Boolean Number String Function Array Date RegExp Object
-S = {
-    isBoolean: noop,
-    isNumber: noop,
-    isString: noop,
-    isFunction: noop,
-    isArray: noop,
-    isDate: noop,
-    isRegExp: noop,
-    isObject: noop
-};
-
-S.UA = {
-    ie: 0,
-    gecko: 0,
-    webkit: 0
-};
-
-S.DOM = {
-    viewportWidth: noop,
-    viewportHeight: noop,
-    docHeight: noop,
-    docWidth: noop
-};
-
-S.Node = {
-    appendTo: noop,
-    append: noop,
-    prepend: noop,
-    prependTo: noop
-};
-
-
-// for nodejs
+define = function() {};
 
 process = {
-  cwd: function() {}
-  ,exit: function() {}
-  ,stdout: function() {}
-  ,argv: []
+  'cwd': function() {},
+  'exit': function() {},
+  'stdout': function() {},
+  'argv': []
 };
 
 stat = {
-  isDirectory: function() {}
-  ,isFile: function() {}
+  'isDirectory': function() {},
+  'isFile': function() {}
 };
 
 fs = {
-  stat: function() {}
-  ,statSync: function() {}
-  ,readdir: function() {}
-  ,readdirSync: function() {}
-  ,readFile: function() {}
-  ,readFileSync: function() {}
-  ,writeFile: function() {}
-  ,writeFileSync: function() {}
-  ,mkdir: function() {}
-  ,mkdirSync: function() {}
-  ,unlink: function() {}
-  ,unlinkSync: function() {}
-  ,rmdir: function() {}
-  ,rmdirSync: function() {}
-  ,realpath: function() {}
-  ,realpathSync: function() {}
+  'stat': function() {},
+  'statSync': function() {},
+  'readdir': function() {},
+  'readdirSync': function() {},
+  'readFile': function() {},
+  'readFileSync': function() {},
+  'writeFile': function() {},
+  'writeFileSync': function() {},
+  'mkdir': function() {},
+  'mkdirSync': function() {},
+  'unlink': function() {},
+  'unlinkSync': function() {},
+  'rmdir': function() {},
+  'rmdirSync': function() {},
+  'realpath': function() {},
+  'realpathSync': function() {}
 };
 
 path = {
-  dirname: function() {}
-  ,basename: function() {}
-  ,existsSync: function() {}
-  ,extname: function() {}
+  'dirname': function() {},
+  'basename': function() {},
+  'existsSync': function() {},
+  'extname': function() {}
 };
 
 vm = {
-  runInNewContext: function() {}
+  'runInNewContext': function() {}
 };
-
-document = {
-  createWindow: function() {}
-};
-
-assert = {
-  ok: function() {}
-};
-
 
 var FileReader = function() {};
 FileReader.prototype.readAsDataURL = function() {};
@@ -104,17 +60,21 @@ res = {
 };
 
 events = {
-  EventEmitter: function() {}
+  'EventEmitter': function() {}
 };
 
 util = {
-  inherits: function() {}
+  'inherits': function() {}
 };
 
 assert['throws'] = function() {};
 
 request = {
-  socket: {
+  'socket': {
     setTimeout: function() {}
   }
+};
+
+zlib = {
+  'gzip': function() {}
 };
