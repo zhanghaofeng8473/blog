@@ -1,54 +1,54 @@
 global = {};
 
 console = {
-    'log': function() {},
-    'warn': function() {},
-    'info': function() {},
-    'dir': function() {}
+    log: function() {},
+    warn: function() {},
+    info: function() {},
+    dir: function() {}
 };
 
 define = function() {};
 
 process = {
-  'cwd': function() {},
-  'exit': function() {},
-  'stdout': function() {},
-  'argv': []
+  cwd: function() {},
+  exit: function() {},
+  stdout: function() {},
+  argv: []
 };
 
 stat = {
-  'isDirectory': function() {},
-  'isFile': function() {}
+  isDirectory: function() {},
+  isFile: function() {}
 };
 
 fs = {
-  'stat': function() {},
-  'statSync': function() {},
-  'readdir': function() {},
-  'readdirSync': function() {},
-  'readFile': function() {},
-  'readFileSync': function() {},
-  'writeFile': function() {},
-  'writeFileSync': function() {},
-  'mkdir': function() {},
-  'mkdirSync': function() {},
-  'unlink': function() {},
-  'unlinkSync': function() {},
-  'rmdir': function() {},
-  'rmdirSync': function() {},
-  'realpath': function() {},
-  'realpathSync': function() {}
+  stat: function() {},
+  statSync: function() {},
+  readdir: function() {},
+  readdirSync: function() {},
+  readFile: function() {},
+  readFileSync: function() {},
+  writeFile: function() {},
+  writeFileSync: function() {},
+  mkdir: function() {},
+  mkdirSync: function() {},
+  unlink: function() {},
+  unlinkSync: function() {},
+  rmdir: function() {},
+  rmdirSync: function() {},
+  realpath: function() {},
+  realpathSync: function() {}
 };
 
 path = {
-  'dirname': function() {},
-  'basename': function() {},
-  'existsSync': function() {},
-  'extname': function() {}
+  dirname: function() {},
+  basename: function() {},
+  existsSync: function() {},
+  extname: function() {}
 };
 
 vm = {
-  'runInNewContext': function() {}
+  runInNewContext: function() {}
 };
 
 var FileReader = function() {};
@@ -60,21 +60,21 @@ res = {
 };
 
 events = {
-  'EventEmitter': function() {}
+  EventEmitter: function() {}
 };
 
 util = {
-  'inherits': function() {}
+  inherits: function() {}
 };
 
-assert['throws'] = function() {};
+assert[throws] = function() {};
 
 request = {
-  'socket': {
+  socket: {
     setTimeout: function() {}
   }
 };
 
 zlib = {
-  'gzip': function() {}
+  gzip: function() {}
 };
