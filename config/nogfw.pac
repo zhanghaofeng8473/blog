@@ -16,6 +16,7 @@ var rules = [
   ,'appspot.com'
   ,'cloudfront.net'
   ,'t.co'
+  ,'cl.ly'
   ,'bit.ly'
   ,'j.mp'
   ,'facebook.com'
