@@ -67,7 +67,7 @@ util = {
   inherits: function() {}
 };
 
-assert[throws] = function() {};
+assert['throws'] = function() {};
 
 request = {
   socket: {
@@ -78,3 +78,5 @@ request = {
 zlib = {
   gzip: function() {}
 };
+
+exports = {};

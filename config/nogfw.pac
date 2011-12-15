@@ -8,6 +8,7 @@ const DIRECT = 'DIRECT';
 var rules = [
   'google'
   ,'twitter'
+  ,'twimg'
   ,'youtube'
   ,'ytimg.com'
   ,'blogspot.com'

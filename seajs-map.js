@@ -19,7 +19,7 @@ define(function() {
   // for tms
   rules.push([
     'http://assets.taobaocdn.com/apps/tms/',
-    'http://localhost/~lifesinger/svn/assets/apps/tms/'
+    'http://localhost/~lifesinger/svn/apps/tms/'
   ]);
 
 
