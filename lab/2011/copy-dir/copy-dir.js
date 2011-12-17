@@ -69,22 +69,15 @@ function prompt(file, callback) {
 function copyFile(source, target, callback) {
   util.print('Copying "' + source + '" to "' + target + '" ... ');
 
-  try {
-    mkdir(path.dirname(target));
-
-    util.pump(
-        fs.createReadStream(source),
-        fs.createWriteStream(target),
-        function() {
-          util.print('done.\n');
-          callback();
-        }
-    );
-  }
-  catch (e) {
-    util.print('ERROR!!!\n');
-    callback();
-  }
+  mkdir(path.dirname(target));
+  util.pump(
+      fs.createReadStream(source),
+      fs.createWriteStream(target),
+      function(err) {
+        util.print((err ? 'ERROR!!!' : 'done.') + '\n');
+        callback();
+      }
+  );
 }
 
 
