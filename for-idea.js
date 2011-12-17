@@ -13,6 +13,7 @@ process = {
   cwd: function() {},
   exit: function() {},
   stdout: function() {},
+  stdin: function() {},
   argv: []
 };
 
@@ -37,7 +38,9 @@ fs = {
   rmdir: function() {},
   rmdirSync: function() {},
   realpath: function() {},
-  realpathSync: function() {}
+  realpathSync: function() {},
+  createReadStream: function() {},
+  createWriteStream: function() {}
 };
 
 path = {
@@ -64,7 +67,8 @@ events = {
 };
 
 util = {
-  inherits: function() {}
+  inherits: function() {},
+  pump: function() {}
 };
 
 assert['throws'] = function() {};
@@ -80,3 +84,13 @@ zlib = {
 };
 
 exports = {};
+
+rl = {
+  createInterface: function() {},
+  question: function() {}
+};
+
+i = {
+  setPrompt: function() {}
+};
+
