@@ -6,7 +6,7 @@
 
   var fns = {
 
-    'google.com': function() {
+    'x google.com': function() {
       // no Google+ notifications
       hideIfExists('#gbgs1');
 
@@ -23,7 +23,7 @@
       }
     },
 
-    'weibo.com': function() {
+    'x weibo.com': function() {
       // no pullylist
       hideIfExists('#pl_content_pullylist');
 
@@ -31,9 +31,13 @@
       hideIfExists('#Box_right');
     },
 
-    'github.com': function() {
-      // no notifications
-      hideIfExists('#header .notifications_count');
+    'tianya.cn': function() {
+      // no ads
+      hideIfExists('#cproIframe1holder');
+      hideIfExists('#serviceEntranceDIV');
+      hideIfExists('#ty_msg_mod');
+      hideIfExists('#adContentDiv');
+      hideIfExists('#adsp_content_top_banner');
     }
   };
 
