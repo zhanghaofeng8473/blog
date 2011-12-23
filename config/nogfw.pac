@@ -15,6 +15,7 @@ var rules = [
   ,'blogger.com'
   ,'appspot.com'
   ,'cloudfront.net'
+  ,'goo.gl'
   ,'t.co'
   ,'cl.ly'
   ,'bit.ly'
@@ -28,6 +29,7 @@ var rules = [
   ,'nodejs.org'
   ,'lesscss.org'
   ,'quora.com'
+  ,'wikipedia.org'
 ];
 
 function FindProxyForURL(url, host) {
