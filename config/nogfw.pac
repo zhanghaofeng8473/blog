@@ -1,6 +1,7 @@
 
 //const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
 //const PROXY = 'PROXY 10.13.35.62:8118'; // Taobao
+//const PROXY = '10.13.44.149:8118'; // from 雷卷
 
 const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
 const DIRECT = 'DIRECT';
@@ -22,6 +23,7 @@ var rules = [
   ,'j.mp'
   ,'facebook.com'
   ,'fbcdn.net'
+  ,'fbcdn.net'
   ,'phpied.com'
   ,'dropbox.com'
   ,'wordpress.com'
@@ -30,6 +32,8 @@ var rules = [
   ,'lesscss.org'
   ,'quora.com'
   ,'wikipedia.org'
+  ,'snip.it'
+  ,'mashable.com'
 ];
 
 function FindProxyForURL(url, host) {
