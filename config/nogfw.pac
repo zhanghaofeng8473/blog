@@ -34,6 +34,9 @@ var rules = [
   ,'wikipedia.org'
   ,'snip.it'
   ,'mashable.com'
+  ,'speakerdeck.com'
+  ,'phabricator.org'
+  ,'speakerdeck.org'
 ];
 
 function FindProxyForURL(url, host) {

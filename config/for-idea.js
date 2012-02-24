@@ -47,7 +47,8 @@ path = {
   dirname: function() {},
   basename: function() {},
   existsSync: function() {},
-  extname: function() {}
+  extname: function() {},
+  join: function() {}
 };
 
 vm = {
@@ -83,8 +84,6 @@ zlib = {
   gzip: function() {}
 };
 
-exports = {};
-
 rl = {
   createInterface: function() {},
   question: function() {}
@@ -94,3 +93,7 @@ i = {
   setPrompt: function() {}
 };
 
+uglifyjs = {
+  parser: {},
+  uglify: {}
+};
