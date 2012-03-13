@@ -37,6 +37,11 @@ var rules = [
   ,'speakerdeck.com'
   ,'phabricator.org'
   ,'speakerdeck.org'
+  ,'github.com'
+  ,'jqmobi.com',
+  ,'zeptojs.com'
+  ,'.aculo.us'
+  ,'xbeta.info'
 ];
 
 function FindProxyForURL(url, host) {
