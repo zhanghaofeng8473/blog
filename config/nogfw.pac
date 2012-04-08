@@ -1,4 +1,3 @@
-
 const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
 //const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
 
@@ -9,6 +8,7 @@ const DIRECT = 'DIRECT';
 
 var rules = [
   'google'
+  ,'gstatic.com'
   ,'twitter'
   ,'twimg'
   ,'youtube'
