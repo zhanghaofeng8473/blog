@@ -1,5 +1,5 @@
-const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
-//const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
+//const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
+const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
 
 //const PROXY = 'PROXY 10.13.35.62:8118'; // Taobao
 //const PROXY = '10.13.44.149:8118'; // from 雷卷
