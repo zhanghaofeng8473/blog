@@ -9,6 +9,8 @@ const DIRECT = 'DIRECT';
 var rules = [
   'google'
   ,'gstatic.com'
+  ,'pinterest.com'
+  ,'python.org'
   ,'twitter'
   ,'twimg'
   ,'youtube'
@@ -43,6 +45,7 @@ var rules = [
   ,'jqmobi.com',
   ,'zeptojs.com'
   ,'.aculo.us'
+  ,'.name.com'
   ,'xbeta.info'
 ];
 
