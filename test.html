@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<!--<script src="../spm/modules/seajs/1.1.0/sea-debug.js"></script>-->
+<script src="../../seajs/spm/modules/seajs/1.1.0/sea.js"></script>
 
 <!--<iframe id="test-iframe" src="iframe.html"></iframe>-->
 
@@ -18,6 +18,55 @@
 
 <script>
 
+  seajs.use('jquery/1.7.2/jquery', function($) {
+
+    var counter = 0;
+
+    var handler = function(){
+      console.log(++counter);
+    };
+
+    $('<div></div>')
+//        .bind('event', function(){
+//      console.log("event 1: nested binding");
+//      $(this).bind('event', handler);
+//    })
+//        .trigger('event') // doesn't call handler
+//        .unbind()
+        .bind('event', function(){
+          console.log("event 2: nested unbinding");
+          $(this).unbind('event', handler);
+        })
+        .bind('event', handler)
+        .trigger('event');  // calls handler === 1
+
+
+    var test = document.body;
+
+//    test.addEventListener('click', function() {
+//      console.log('click 1');
+//      test.addEventListener('click', handler);
+//    }, false);
+
+    function fn() {
+      console.log('fn');
+    }
+
+    function fn2() {
+      console.log('fn2');
+    }
+
+    //$(test).on('click', fn);
+    //$(test).on('click', fn);
+
+    test.addEventListener('click', fn, false);
+    test.addEventListener('click', function() {
+      console.log('fn3');
+      test.removeEventListener('click', fn2, false)
+    }, false);
+    test.addEventListener('click', fn2, false);
+
+  });
 
 
 </script>
