@@ -47,6 +47,7 @@ var rules = [
   ,'.aculo.us'
   ,'.name.com'
   ,'xbeta.info'
+  ,'slideshare'
 ];
 
 function FindProxyForURL(url, host) {
