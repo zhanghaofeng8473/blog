@@ -1,10 +1,8 @@
-//const PROXY = 'PROXY 127.0.0.1:8888'; // OOW
-const PROXY = 'PROXY 127.0.0.1:1984'; // PUFF
 
-//const PROXY = 'PROXY 10.13.35.62:8118'; // Taobao
-//const PROXY = '10.13.44.149:8118'; // from 雷卷
+const DIRECT = 'DIRECT'
 
-const DIRECT = 'DIRECT';
+const PROXY = 'PROXY 127.0.0.1:1984' // PUFF
+//const PROXY = 'PROXY 127.0.0.1:8888' // OOW
 
 var rules = [
   'google'
@@ -40,7 +38,6 @@ var rules = [
   ,'speakerdeck.com'
   ,'phabricator.org'
   ,'speakerdeck.org'
-//  ,'github.com'
   ,'kissyui.com'
   ,'jqmobi.com',
   ,'zeptojs.com'
@@ -48,26 +45,23 @@ var rules = [
   ,'.name.com'
   ,'xbeta.info'
   ,'slideshare'
-];
+]
 
 function FindProxyForURL(url, host) {
-  if (url.indexOf('no-gfw') !== -1) {
-    return PROXY;
+
+  if (url.indexOf('no-gfw') > 0) {
+    return PROXY
   }
-  if (url.indexOf('direct') !== -1) {
-    return DIRECT;
+
+  if (url.indexOf('direct') > 0) {
+    return DIRECT
   }
 
   for (var i = 0; i < rules.length; i++) {
-    if (host.indexOf(rules[i]) !== -1) {
-      return PROXY;
+    if (host.indexOf(rules[i]) > -1) {
+      return PROXY
     }
   }
 
-  return DIRECT;
+  return DIRECT
 }
-
-//((function() {
-  //var url = (document.querySelector('.failedUrl') || 0).innerHTML || document.querySelector('ul a').href;
-  //if (url) {location.replace(url + (url.indexOf('?') === -1 ? '?' : '&') + 'no-gfw')}
-//})());
