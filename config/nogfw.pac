@@ -6,6 +6,7 @@ const PROXY = 'PROXY 127.0.0.1:1984' // PUFF
 
 var rules = [
   'google'
+  //,'github.com'
   ,'gstatic.com'
   ,'pinterest.com'
   ,'python.org'

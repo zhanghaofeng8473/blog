@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inspections version="1.0" is_locked="false">
+  <option name="myName" value="Project Default" />
+  <option name="myLocal" value="false" />
+  <inspection_tool class="CssInvalidElementInspection" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="CssInvalidHtmlTagReferenceInspection" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="CssNoGenericFontName" enabled="false" level="INFO" enabled_by_default="false" />
+  <inspection_tool class="CssOverwrittenProperties" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="CssUnitlessNumber" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="CssUnknownProperty" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="myCustomPropertiesEnabled" value="true" />
+    <option name="myIgnoreVendorSpecificProperties" value="true" />
+    <option name="myCustomPropertiesList">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="text-rendering" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="CssUnusedSymbolInspection" enabled="false" level="INFO" enabled_by_default="false" />
+  <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlDeprecatedTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="HtmlNonExistentInternetResource" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlPresentationalElement" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTag" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTarget" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSPotentiallyInvalidConstructorUsages" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myConsiderUppercaseFunctionsToBeConstructors" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JSReferencingMutableVariableFromClosure" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedLibraryURL" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnusedAssignment" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myAdditionalRequiredHtmlAttributes" value="type,scoped" />
+  </inspection_tool>
+  <inspection_tool class="ThisExpressionReferencesGlobalObjectJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="W3CssValidation" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myCssVersion" value="css3" />
+  </inspection_tool>
+</inspections>
+
