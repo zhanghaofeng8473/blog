@@ -1,0 +1,1 @@
+var Programmer=new Class({});

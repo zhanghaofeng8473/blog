@@ -8,6 +8,7 @@ var rules = [
   'google'
   //,'github.com'
   ,'gstatic.com'
+  ,'gravatar.com'
   ,'pinterest.com'
   ,'python.org'
   ,'twitter'
