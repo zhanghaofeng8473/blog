@@ -216,6 +216,10 @@ define(function(require, exports, module) {
         if (ev.keyCode == '32') {
           go()
         }
+        else if (ev.keyCode == '27') {
+          that.moveLucky()
+          $('#lucky-balls li').eq(0).click()
+        }
       }, false)
 
     },
