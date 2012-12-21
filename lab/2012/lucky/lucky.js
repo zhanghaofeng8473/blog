@@ -150,6 +150,8 @@ define(function(require, exports, module) {
     users: [],
 
     init: function(data) {
+      this.data = data
+
       this.users = Object.keys(data).map(function(name) {
         return new User(name, data[name])
       })
@@ -159,15 +161,13 @@ define(function(require, exports, module) {
 
     _bindUI: function() {
       var that = this
+
+      // bind button
       var trigger = document.querySelector('#go')
       trigger.innerHTML = trigger.getAttribute('data-text-start')
+      trigger.addEventListener('click', go, false)
 
-      trigger.addEventListener('click', handle, false)
-      document.addEventListener('keydown', function(ev) {
-        if (ev.keyCode == '32') handle()
-      }, false)
-
-      function handle() {
+      function go() {
         if (trigger.getAttribute('data-action') === 'start') {
           trigger.setAttribute('data-action', 'stop')
           trigger.innerHTML = trigger.getAttribute('data-text-stop')
@@ -179,6 +179,44 @@ define(function(require, exports, module) {
           that.stop()
         }
       }
+
+      // bind #lucky-balls
+      $('#lucky-balls').on('click', 'li', function(e) {
+        var el = $(e.target)
+        var name = el.text()
+        var options = that.data[name]
+
+        if (options) {
+          that.addItem(name, options)
+          that.hit()
+          el.remove()
+        }
+      })
+
+      // bind #balls
+      $('#balls').on('click', 'li', function(e) {
+        var el = $(e.target)
+        var name = el.text()
+
+        for (var i = 0; i < that.users.length; i++) {
+          var user = that.users[i]
+
+          if (user.name === name) {
+            that.moveLucky()
+            if (that.luckyUser !== user) {
+              that.setLucky(user)
+            }
+            break
+          }
+        }
+      })
+
+      // bind keydown
+      document.addEventListener('keydown', function(ev) {
+        if (ev.keyCode == '32') {
+          go()
+        }
+      }, false)
 
     },
 
@@ -208,22 +246,36 @@ define(function(require, exports, module) {
       this.luckyUser = lucky
     },
 
-    moveLucky: function() {
-      var luckyUser = this.luckyUser
-      if (luckyUser) {
-        luckyUser.el[0].style.cssText = ''
-        luckyUser.el.prependTo('#lucky-balls')
-        this.removeUser(luckyUser)
-      }
-    },
-
-    removeUser: function(item) {
+    removeItem: function(item) {
       for (var i = 0; i < this.users.length; i++) {
         var user = this.users[i]
         if (user === item) {
           this.users.splice(i, 1)
         }
       }
+    },
+
+    addItem: function(name, options) {
+      this.users.push(new User(name, options))
+    },
+
+    moveLucky: function() {
+      var luckyUser = this.luckyUser
+      if (luckyUser) {
+        luckyUser.el[0].style.cssText = ''
+        luckyUser.el.prependTo('#lucky-balls')
+        this.removeItem(luckyUser)
+        this.luckyUser = null
+      }
+    },
+
+    setLucky: function(item) {
+      this.users.forEach(function(user) {
+        user.stop()
+      })
+      this.luckyUser = item
+      item.bang()
+      this.hit()
     },
 
     hit: function() {
