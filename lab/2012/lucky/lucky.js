@@ -1,3 +1,11 @@
+// 感谢遇春提供原始程序
+// 用法：
+//  - 修改 data.js 更改数据
+//  - 按空格抽奖
+//  - 点击灰色球直接中奖，适合手动指定中奖人，用在感恩环节
+//  - 点击黄色球将中奖人再次添加到备选人中
+//  - 按 ESC 键取消当前中奖，比如让管理层的中奖无效
+
 define(function(require, exports, module) {
 
   var $ = require('./jquery')
@@ -152,7 +160,7 @@ define(function(require, exports, module) {
     init: function(data) {
       this.data = data
 
-      this.users = Object.keys(data).map(function(name) {
+      this.users = data.map(function(name) {
         return new User(name, data[name])
       })
 
@@ -184,13 +192,10 @@ define(function(require, exports, module) {
       $('#lucky-balls').on('click', 'li', function(e) {
         var el = $(e.target)
         var name = el.text()
-        var options = that.data[name]
 
-        if (options) {
-          that.addItem(name, options)
-          that.hit()
-          el.remove()
-        }
+        that.addItem(name)
+        that.hit()
+        el.remove()
       })
 
       // bind #balls
@@ -259,8 +264,8 @@ define(function(require, exports, module) {
       }
     },
 
-    addItem: function(name, options) {
-      this.users.push(new User(name, options))
+    addItem: function(name) {
+      this.users.push(new User(name))
     },
 
     moveLucky: function() {
