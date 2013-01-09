@@ -15,8 +15,8 @@ stats.forEach(function(stat, index) {
   out += '<tr>'
   out += '<th scope="row">##' + (index + 1) + ': '
   out += '<a href="https://github.com/' + stat.username + '">' + stat.username + '</a></th>'
-  out += '</td>' + stat.contributions + '</td>'
-  out += '</td>' + stat.location + '</td>'
+  out += '<td>' + stat.contributions + '</td>'
+  out += '<td>' + stat.location + '</td>'
   out += '</tr>\n'
 })
 
