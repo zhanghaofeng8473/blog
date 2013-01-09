@@ -6,6 +6,7 @@ const PROXY = 'PROXY 127.0.0.1:1984' // PUFF
 
 var rules = [
   'google'
+  ,'vimeo'
   ,'gstatic.com'
   ,'gravatar.com'
   ,'pinterest.com'
@@ -46,6 +47,7 @@ var rules = [
   ,'.name.com'
   ,'xbeta.info'
   ,'slideshare'
+  ,'evernote'
 ]
 
 function FindProxyForURL(url, host) {
