@@ -13,7 +13,7 @@ out += '</thead><tbody>\n'
 
 stats.forEach(function(stat, index) {
   out += '<tr>'
-  out += '<td scope="row">##' + (index + 1) + ': '
+  out += '<td scope="row">#' + (index + 1) + ': '
   out += '<a href="https://github.com/' + stat.username + '">' + stat.username + '</a></td>'
   out += '<td>' + stat.contributions + '</td>'
   out += '<td>' + stat.location + '</td>'
