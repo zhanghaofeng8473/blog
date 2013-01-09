@@ -4,6 +4,7 @@ var fs = require('fs')
 var stats = require('./latest-china-stats.json')
 
 var out = '# Most active GitHub users in China\n\n'
+out += 'Latest Update: ' + new Date().toGMTString() + '\n'
 
 out += '<table cellspacing="0"><thead>'
 out += '<th scope="col">Username</th>'

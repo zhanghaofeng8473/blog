@@ -1,5 +1,6 @@
 # Most active GitHub users in China
 
+Latest Update: Wed, 09 Jan 2013 16:22:45 GMT
 <table cellspacing="0"><thead><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Location</th></thead><tbody>
 <tr><td scope="row">#1: <a href="https://github.com/yiminghe">yiminghe</a></td><td>2994</td><td>China</td></tr>
 <tr><td scope="row">#2: <a href="https://github.com/lifesinger">lifesinger</a></td><td>2701</td><td>Hangzhou, China</td></tr>
