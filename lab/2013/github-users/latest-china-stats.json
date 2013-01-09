@@ -1,7 +1,12 @@
 [
   {
+    "username": "yiminghe",
+    "contributions": 2994,
+    "location": "China"
+  },
+  {
     "username": "lifesinger",
-    "contributions": 2699,
+    "contributions": 2701,
     "location": "Hangzhou, China"
   },
   {
@@ -53,6 +58,11 @@
     "username": "huacnlee",
     "contributions": 680,
     "location": "Hangzhou,China"
+  },
+  {
+    "username": "shaoshuai0102",
+    "contributions": 636,
+    "location": "Hangzhou. China"
   },
   {
     "username": "astaxie",

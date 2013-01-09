@@ -71,7 +71,7 @@
   },
   {
     "username": "taylorotwell",
-    "contributions": 3383,
+    "contributions": 3386,
     "location": "Arkansas"
   },
   {
@@ -140,6 +140,11 @@
     "location": "San Jose, California"
   },
   {
+    "username": "yiminghe",
+    "contributions": 2994,
+    "location": "China"
+  },
+  {
     "username": "kripken",
     "contributions": 2992,
     "location": "Unknown"
@@ -201,7 +206,7 @@
   },
   {
     "username": "lifesinger",
-    "contributions": 2699,
+    "contributions": 2701,
     "location": "Hangzhou, China"
   },
   {
@@ -246,7 +251,7 @@
   },
   {
     "username": "zenorocha",
-    "contributions": 2586,
+    "contributions": 2587,
     "location": "Rio de Janeiro"
   },
   {
@@ -421,7 +426,7 @@
   },
   {
     "username": "jaredhanson",
-    "contributions": 1815,
+    "contributions": 1816,
     "location": "Oakland, CA"
   },
   {
@@ -535,6 +540,11 @@
     "location": "Berlin"
   },
   {
+    "username": "popomore",
+    "contributions": 1586,
+    "location": "Hangzhou"
+  },
+  {
     "username": "sindresorhus",
     "contributions": 1564,
     "location": "Norway"
@@ -543,6 +553,11 @@
     "username": "mitchellh",
     "contributions": 1563,
     "location": "San Francisco, CA"
+  },
+  {
+    "username": "leoner",
+    "contributions": 1561,
+    "location": "@小熊泡泡"
   },
   {
     "username": "josh",
@@ -555,8 +570,13 @@
     "location": "San Francisco, CA"
   },
   {
+    "username": "afc163",
+    "contributions": 1540,
+    "location": "Unknown"
+  },
+  {
     "username": "rafaelfranca",
-    "contributions": 1536,
+    "contributions": 1537,
     "location": "São Paulo, Brazil"
   },
   {
@@ -616,7 +636,7 @@
   },
   {
     "username": "jzaefferer",
-    "contributions": 1479,
+    "contributions": 1480,
     "location": "Cologne, Germany"
   },
   {
@@ -650,14 +670,14 @@
     "location": "Brighton, UK"
   },
   {
+    "username": "nddrylliog",
+    "contributions": 1455,
+    "location": "Unknown"
+  },
+  {
     "username": "magnars",
     "contributions": 1454,
     "location": "Norway"
-  },
-  {
-    "username": "nddrylliog",
-    "contributions": 1453,
-    "location": "Unknown"
   },
   {
     "username": "jeremyckahn",
@@ -696,7 +716,7 @@
   },
   {
     "username": "rkh",
-    "contributions": 1373,
+    "contributions": 1376,
     "location": "Berlin"
   },
   {
@@ -761,7 +781,7 @@
   },
   {
     "username": "christkv",
-    "contributions": 1307,
+    "contributions": 1308,
     "location": "Barcelona, Spain"
   },
   {
@@ -866,7 +886,7 @@
   },
   {
     "username": "philsturgeon",
-    "contributions": 1187,
+    "contributions": 1188,
     "location": "Bristol, UK"
   },
   {
@@ -996,7 +1016,7 @@
   },
   {
     "username": "seancribbs",
-    "contributions": 1090,
+    "contributions": 1092,
     "location": "DeKalb, IL"
   },
   {
@@ -1016,7 +1036,7 @@
   },
   {
     "username": "drogus",
-    "contributions": 1062,
+    "contributions": 1063,
     "location": "Warsaw"
   },
   {
@@ -1301,7 +1321,7 @@
   },
   {
     "username": "jasondavies",
-    "contributions": 813,
+    "contributions": 815,
     "location": "London, UK"
   },
   {
@@ -1441,7 +1461,7 @@
   },
   {
     "username": "bbatsov",
-    "contributions": 732,
+    "contributions": 733,
     "location": "Sofia, Bulgaria"
   },
   {
@@ -1456,7 +1476,7 @@
   },
   {
     "username": "millermedeiros",
-    "contributions": 718,
+    "contributions": 720,
     "location": "São Paulo, Brasil"
   },
   {
@@ -1566,7 +1586,7 @@
   },
   {
     "username": "freexperia",
-    "contributions": 678,
+    "contributions": 679,
     "location": "Unknown"
   },
   {
@@ -1638,6 +1658,11 @@
     "username": "nimbupani",
     "contributions": 638,
     "location": "San Francisco"
+  },
+  {
+    "username": "shaoshuai0102",
+    "contributions": 636,
+    "location": "Hangzhou. China"
   },
   {
     "username": "mishoo",
@@ -1880,6 +1905,11 @@
     "location": "Cambridge MA"
   },
   {
+    "username": "TheRealKerni",
+    "contributions": 526,
+    "location": "Bietigheim-Bissingen, Germany"
+  },
+  {
     "username": "daylerees",
     "contributions": 525,
     "location": "Wales, UK"
@@ -1888,11 +1918,6 @@
     "username": "dchelimsky",
     "contributions": 524,
     "location": "Chicago, IL, USA"
-  },
-  {
-    "username": "TheRealKerni",
-    "contributions": 524,
-    "location": "Bietigheim-Bissingen, Germany"
   },
   {
     "username": "tekkub",
@@ -2025,6 +2050,11 @@
     "location": "Unknown"
   },
   {
+    "username": "sorah",
+    "contributions": 471,
+    "location": "Utsunomiya, Tochigi, Japan"
+  },
+  {
     "username": "davies",
     "contributions": 471,
     "location": "Beijing, China"
@@ -2033,11 +2063,6 @@
     "username": "pat",
     "contributions": 469,
     "location": "Melbourne, Australia"
-  },
-  {
-    "username": "sorah",
-    "contributions": 469,
-    "location": "Utsunomiya, Tochigi, Japan"
   },
   {
     "username": "kangax",
@@ -2608,6 +2633,11 @@
     "username": "swaroopch",
     "contributions": 293,
     "location": "India"
+  },
+  {
+    "username": "fool2fish",
+    "contributions": 292,
+    "location": "hangzhou"
   },
   {
     "username": "voodootikigod",
@@ -4350,6 +4380,11 @@
     "location": "London"
   },
   {
+    "username": "atebits",
+    "contributions": 7,
+    "location": "Unknown"
+  },
+  {
     "username": "oschina",
     "contributions": 7,
     "location": "SZ China"
@@ -4358,11 +4393,6 @@
     "username": "viniciusteles",
     "contributions": 7,
     "location": "Rio de Janeiro, Brazil"
-  },
-  {
-    "username": "atebits",
-    "contributions": 7,
-    "location": "Unknown"
   },
   {
     "username": "mala",
@@ -4425,12 +4455,12 @@
     "location": "San Francisco, CA"
   },
   {
-    "username": "planetbeing",
+    "username": "hcilab",
     "contributions": 4,
     "location": "Unknown"
   },
   {
-    "username": "hcilab",
+    "username": "planetbeing",
     "contributions": 4,
     "location": "Unknown"
   },
@@ -4545,6 +4575,11 @@
     "location": "San Francisco, CA, USA"
   },
   {
+    "username": "pjhyett",
+    "contributions": 0,
+    "location": "San Francisco"
+  },
+  {
     "username": "android",
     "contributions": 0,
     "location": "Unknown"
@@ -4553,11 +4588,6 @@
     "username": "jquery",
     "contributions": 0,
     "location": "Unknown"
-  },
-  {
-    "username": "pjhyett",
-    "contributions": 0,
-    "location": "San Francisco"
   },
   {
     "username": "textmate",
@@ -4610,12 +4640,12 @@
     "location": "Unknown"
   },
   {
-    "username": "php",
+    "username": "cappuccino",
     "contributions": 0,
     "location": "Unknown"
   },
   {
-    "username": "HandBrake",
+    "username": "php",
     "contributions": 0,
     "location": "Unknown"
   },
@@ -4625,7 +4655,7 @@
     "location": "Unknown"
   },
   {
-    "username": "cappuccino",
+    "username": "HandBrake",
     "contributions": 0,
     "location": "Unknown"
   },
@@ -4665,14 +4695,14 @@
     "location": "Palo Alto, CA"
   },
   {
-    "username": "merlinmann",
-    "contributions": 0,
-    "location": "San Francisco, CA"
-  },
-  {
     "username": "chad",
     "contributions": 0,
     "location": "Washington, DC"
+  },
+  {
+    "username": "merlinmann",
+    "contributions": 0,
+    "location": "San Francisco, CA"
   },
   {
     "username": "symfony",
@@ -4840,6 +4870,11 @@
     "location": "Montpellier, France"
   },
   {
+    "username": "mangos",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
     "username": "MuscleNerd",
     "contributions": 0,
     "location": "Los Angeles, CA"
@@ -4850,22 +4885,17 @@
     "location": "Altanta, GA"
   },
   {
-    "username": "duckduckgo",
-    "contributions": 0,
-    "location": "Unknown"
-  },
-  {
     "username": "theflashbum",
     "contributions": 0,
     "location": "Brooklyn, New York"
   },
   {
-    "username": "wdas",
+    "username": "duckduckgo",
     "contributions": 0,
     "location": "Unknown"
   },
   {
-    "username": "mangos",
+    "username": "wdas",
     "contributions": 0,
     "location": "Unknown"
   }
