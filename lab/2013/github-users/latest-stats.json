@@ -1,0 +1,4872 @@
+[
+  {
+    "username": "visionmedia",
+    "contributions": 7448,
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "username": "c9s",
+    "contributions": 6849,
+    "location": "Taipei, Taiwan"
+  },
+  {
+    "username": "fabpot",
+    "contributions": 6653,
+    "location": "Paris, France"
+  },
+  {
+    "username": "michaelklishin",
+    "contributions": 5105,
+    "location": "Unknown"
+  },
+  {
+    "username": "weierophinney",
+    "contributions": 4388,
+    "location": "Sioux Falls, SD, USA"
+  },
+  {
+    "username": "dcramer",
+    "contributions": 4050,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "jeromeetienne",
+    "contributions": 4025,
+    "location": "Paris, france"
+  },
+  {
+    "username": "springmeyer",
+    "contributions": 4020,
+    "location": "Seattle"
+  },
+  {
+    "username": "ornicar",
+    "contributions": 3966,
+    "location": "France"
+  },
+  {
+    "username": "davglass",
+    "contributions": 3933,
+    "location": "Marion, IL"
+  },
+  {
+    "username": "isaacs",
+    "contributions": 3655,
+    "location": "Oakland CA"
+  },
+  {
+    "username": "substack",
+    "contributions": 3637,
+    "location": "Oakland, California, USA"
+  },
+  {
+    "username": "fsouza",
+    "contributions": 3538,
+    "location": "Rio de Janeiro, Brazil"
+  },
+  {
+    "username": "yihui",
+    "contributions": 3397,
+    "location": "Ames, IA"
+  },
+  {
+    "username": "taylorotwell",
+    "contributions": 3383,
+    "location": "Arkansas"
+  },
+  {
+    "username": "josevalim",
+    "contributions": 3382,
+    "location": "Kraków, Poland"
+  },
+  {
+    "username": "kevinsawicki",
+    "contributions": 3365,
+    "location": "Redwood City, CA"
+  },
+  {
+    "username": "sferik",
+    "contributions": 3293,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "tmcw",
+    "contributions": 3293,
+    "location": "Washington, DC"
+  },
+  {
+    "username": "jordansissel",
+    "contributions": 3275,
+    "location": "Silicon Valley"
+  },
+  {
+    "username": "Raynos",
+    "contributions": 3186,
+    "location": "San Francisco"
+  },
+  {
+    "username": "Shougo",
+    "contributions": 3092,
+    "location": "Japan"
+  },
+  {
+    "username": "svenfuchs",
+    "contributions": 3092,
+    "location": "Germany/Berlin"
+  },
+  {
+    "username": "radar",
+    "contributions": 3076,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "davidfowl",
+    "contributions": 3074,
+    "location": "Bellevue, WA"
+  },
+  {
+    "username": "TooTallNate",
+    "contributions": 3053,
+    "location": "San Rafael, CA"
+  },
+  {
+    "username": "ekmett",
+    "contributions": 3032,
+    "location": "Cambridge, MA"
+  },
+  {
+    "username": "kohsuke",
+    "contributions": 2997,
+    "location": "San Jose, California"
+  },
+  {
+    "username": "kripken",
+    "contributions": 2992,
+    "location": "Unknown"
+  },
+  {
+    "username": "snoyberg",
+    "contributions": 2935,
+    "location": "Israel"
+  },
+  {
+    "username": "agentzh",
+    "contributions": 2932,
+    "location": "San Francisco, CA, USA"
+  },
+  {
+    "username": "dominictarr",
+    "contributions": 2920,
+    "location": "New Zealand"
+  },
+  {
+    "username": "drnic",
+    "contributions": 2919,
+    "location": "Palo Alto, CA, USA"
+  },
+  {
+    "username": "ayende",
+    "contributions": 2899,
+    "location": "Israel"
+  },
+  {
+    "username": "aheckmann",
+    "contributions": 2840,
+    "location": "San Jose, CA"
+  },
+  {
+    "username": "lsmith77",
+    "contributions": 2803,
+    "location": "Zurich, Switzerland"
+  },
+  {
+    "username": "tokuhirom",
+    "contributions": 2788,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "kennethreitz",
+    "contributions": 2787,
+    "location": "Winchester, VA"
+  },
+  {
+    "username": "indutny",
+    "contributions": 2715,
+    "location": "Russia"
+  },
+  {
+    "username": "willdurand",
+    "contributions": 2705,
+    "location": "France"
+  },
+  {
+    "username": "lifesinger",
+    "contributions": 2699,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "paulmillr",
+    "contributions": 2695,
+    "location": "Ukraine"
+  },
+  {
+    "username": "beberlei",
+    "contributions": 2692,
+    "location": "Germany"
+  },
+  {
+    "username": "lepture",
+    "contributions": 2677,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "igorw",
+    "contributions": 2663,
+    "location": "Unknown"
+  },
+  {
+    "username": "pydanny",
+    "contributions": 2659,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "username": "Seldaek",
+    "contributions": 2640,
+    "location": "Zürich, Zurich, Switzerland"
+  },
+  {
+    "username": "ask",
+    "contributions": 2620,
+    "location": "London, UK"
+  },
+  {
+    "username": "Gozala",
+    "contributions": 2612,
+    "location": "San Francisco, USA"
+  },
+  {
+    "username": "zenorocha",
+    "contributions": 2586,
+    "location": "Rio de Janeiro"
+  },
+  {
+    "username": "scribu",
+    "contributions": 2539,
+    "location": "Cluj-Napoca, Romania"
+  },
+  {
+    "username": "durran",
+    "contributions": 2490,
+    "location": "Berlin, Deutschland"
+  },
+  {
+    "username": "torvalds",
+    "contributions": 2422,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "balupton",
+    "contributions": 2358,
+    "location": "Sydney, Australia"
+  },
+  {
+    "username": "rstacruz",
+    "contributions": 2357,
+    "location": "Manila, Philippines"
+  },
+  {
+    "username": "jtimberman",
+    "contributions": 2350,
+    "location": "Denver, CO"
+  },
+  {
+    "username": "mrflip",
+    "contributions": 2342,
+    "location": "Austin, TX USA"
+  },
+  {
+    "username": "mattn",
+    "contributions": 2336,
+    "location": "Osaka, Japan"
+  },
+  {
+    "username": "derickbailey",
+    "contributions": 2335,
+    "location": "Waco, TX"
+  },
+  {
+    "username": "wbond",
+    "contributions": 2332,
+    "location": "Newbury, MA"
+  },
+  {
+    "username": "avsm",
+    "contributions": 2270,
+    "location": "Cambridge, UK"
+  },
+  {
+    "username": "Constellation",
+    "contributions": 2218,
+    "location": "Yokohama, Japan"
+  },
+  {
+    "username": "scottgonzalez",
+    "contributions": 2193,
+    "location": "York, PA"
+  },
+  {
+    "username": "lloyd",
+    "contributions": 2188,
+    "location": "Denver, Colorado"
+  },
+  {
+    "username": "wesm",
+    "contributions": 2144,
+    "location": "New York, NY"
+  },
+  {
+    "username": "charliesome",
+    "contributions": 2119,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "ericam",
+    "contributions": 2044,
+    "location": "Denver, CO"
+  },
+  {
+    "username": "mythz",
+    "contributions": 2033,
+    "location": "New York"
+  },
+  {
+    "username": "mattt",
+    "contributions": 2015,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "maxwell",
+    "contributions": 1990,
+    "location": "94110"
+  },
+  {
+    "username": "dustin",
+    "contributions": 1972,
+    "location": "Santa Clara, CA"
+  },
+  {
+    "username": "jwiegley",
+    "contributions": 1970,
+    "location": "Peoria, Illinois, USA"
+  },
+  {
+    "username": "dg",
+    "contributions": 1937,
+    "location": "Unknown"
+  },
+  {
+    "username": "daleharvey",
+    "contributions": 1927,
+    "location": "Edinburgh, Scotland"
+  },
+  {
+    "username": "benoitc",
+    "contributions": 1907,
+    "location": "Creil, France"
+  },
+  {
+    "username": "samuelclay",
+    "contributions": 1895,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jrburke",
+    "contributions": 1873,
+    "location": "Unknown"
+  },
+  {
+    "username": "jeremydmiller",
+    "contributions": 1864,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "sjl",
+    "contributions": 1854,
+    "location": "Rochester, NY"
+  },
+  {
+    "username": "technomancy",
+    "contributions": 1846,
+    "location": "Seattle, WA, USA"
+  },
+  {
+    "username": "addyosmani",
+    "contributions": 1837,
+    "location": "London, England"
+  },
+  {
+    "username": "adamv",
+    "contributions": 1833,
+    "location": "Issaquah, WA"
+  },
+  {
+    "username": "bergie",
+    "contributions": 1829,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "jashkenas",
+    "contributions": 1820,
+    "location": "NYC"
+  },
+  {
+    "username": "jaredhanson",
+    "contributions": 1815,
+    "location": "Oakland, CA"
+  },
+  {
+    "username": "alkemist",
+    "contributions": 1803,
+    "location": "Brisbane, QLD AU."
+  },
+  {
+    "username": "parndt",
+    "contributions": 1787,
+    "location": "Christchurch, New Zealand"
+  },
+  {
+    "username": "markstory",
+    "contributions": 1784,
+    "location": "Toronto, Ontario"
+  },
+  {
+    "username": "rwldrn",
+    "contributions": 1771,
+    "location": "Brooklyn, NY"
+  },
+  {
+    "username": "ddollar",
+    "contributions": 1760,
+    "location": "Atlanta, GA"
+  },
+  {
+    "username": "jgm",
+    "contributions": 1754,
+    "location": "Berkeley, CA"
+  },
+  {
+    "username": "rtyler",
+    "contributions": 1704,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "ujihisa",
+    "contributions": 1703,
+    "location": "Vancouver, Canada"
+  },
+  {
+    "username": "mbostock",
+    "contributions": 1688,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "mdo",
+    "contributions": 1685,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "geemus",
+    "contributions": 1682,
+    "location": "Iowa City, IA"
+  },
+  {
+    "username": "rjbs",
+    "contributions": 1662,
+    "location": "Bethlehem, PA, USA"
+  },
+  {
+    "username": "jdalton",
+    "contributions": 1652,
+    "location": "Unknown"
+  },
+  {
+    "username": "tarcieri",
+    "contributions": 1643,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "xpaulbettsx",
+    "contributions": 1641,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "faux123",
+    "contributions": 1636,
+    "location": "Los Angeles"
+  },
+  {
+    "username": "sandal",
+    "contributions": 1631,
+    "location": "New Haven, CT"
+  },
+  {
+    "username": "astro",
+    "contributions": 1628,
+    "location": "Dresden, Germany"
+  },
+  {
+    "username": "cowboy",
+    "contributions": 1625,
+    "location": "Boston, MA"
+  },
+  {
+    "username": "kana",
+    "contributions": 1625,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "bitprophet",
+    "contributions": 1601,
+    "location": "Lafayette, CA"
+  },
+  {
+    "username": "marijnh",
+    "contributions": 1597,
+    "location": "Berlin"
+  },
+  {
+    "username": "sindresorhus",
+    "contributions": 1564,
+    "location": "Norway"
+  },
+  {
+    "username": "mitchellh",
+    "contributions": 1563,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "josh",
+    "contributions": 1553,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "JakeWharton",
+    "contributions": 1545,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "rafaelfranca",
+    "contributions": 1536,
+    "location": "São Paulo, Brazil"
+  },
+  {
+    "username": "flyerhzm",
+    "contributions": 1531,
+    "location": "Shanghai, China"
+  },
+  {
+    "username": "dae",
+    "contributions": 1526,
+    "location": "Japan"
+  },
+  {
+    "username": "jcoglan",
+    "contributions": 1523,
+    "location": "London, UK"
+  },
+  {
+    "username": "yrashk",
+    "contributions": 1518,
+    "location": "Vancouver, BC, Canada"
+  },
+  {
+    "username": "nathanmarz",
+    "contributions": 1511,
+    "location": "San Francisco"
+  },
+  {
+    "username": "michael",
+    "contributions": 1508,
+    "location": "On the loose"
+  },
+  {
+    "username": "shiffman",
+    "contributions": 1490,
+    "location": "Unknown"
+  },
+  {
+    "username": "yuvipanda",
+    "contributions": 1489,
+    "location": "Chennai"
+  },
+  {
+    "username": "creationix",
+    "contributions": 1488,
+    "location": "Red Lick, TX, USA"
+  },
+  {
+    "username": "joshaber",
+    "contributions": 1485,
+    "location": "Yellow Springs, OH"
+  },
+  {
+    "username": "tswicegood",
+    "contributions": 1482,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "jzaefferer",
+    "contributions": 1479,
+    "location": "Cologne, Germany"
+  },
+  {
+    "username": "alloy",
+    "contributions": 1470,
+    "location": "Amsterdam, the Netherlands"
+  },
+  {
+    "username": "rdegges",
+    "contributions": 1470,
+    "location": "Bakersfield"
+  },
+  {
+    "username": "Raynes",
+    "contributions": 1469,
+    "location": "Eldridge, AL"
+  },
+  {
+    "username": "jcasimir",
+    "contributions": 1466,
+    "location": "Washington, DC"
+  },
+  {
+    "username": "andrewsmedina",
+    "contributions": 1457,
+    "location": "Rio de Janeiro"
+  },
+  {
+    "username": "remy",
+    "contributions": 1455,
+    "location": "Brighton, UK"
+  },
+  {
+    "username": "magnars",
+    "contributions": 1454,
+    "location": "Norway"
+  },
+  {
+    "username": "nddrylliog",
+    "contributions": 1453,
+    "location": "Unknown"
+  },
+  {
+    "username": "jeremyckahn",
+    "contributions": 1452,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "bos",
+    "contributions": 1439,
+    "location": "Unknown"
+  },
+  {
+    "username": "n1k0",
+    "contributions": 1415,
+    "location": "Montpellier, France"
+  },
+  {
+    "username": "kimchy",
+    "contributions": 1403,
+    "location": "Unknown"
+  },
+  {
+    "username": "steipete",
+    "contributions": 1402,
+    "location": "Vienna, Austria"
+  },
+  {
+    "username": "guille",
+    "contributions": 1378,
+    "location": "SF"
+  },
+  {
+    "username": "bnoordhuis",
+    "contributions": 1377,
+    "location": "Gouda, the Netherlands"
+  },
+  {
+    "username": "rkh",
+    "contributions": 1373,
+    "location": "Berlin"
+  },
+  {
+    "username": "carljm",
+    "contributions": 1372,
+    "location": "Rapid City, SD"
+  },
+  {
+    "username": "rmurphey",
+    "contributions": 1367,
+    "location": "Durham, NC"
+  },
+  {
+    "username": "mrdoob",
+    "contributions": 1354,
+    "location": "Barcelona, Spain"
+  },
+  {
+    "username": "tbranyen",
+    "contributions": 1349,
+    "location": "Boston, MA"
+  },
+  {
+    "username": "graemerocher",
+    "contributions": 1341,
+    "location": "Unknown"
+  },
+  {
+    "username": "mklabs",
+    "contributions": 1339,
+    "location": "Grenoble, France"
+  },
+  {
+    "username": "jaspervdj",
+    "contributions": 1333,
+    "location": "Lokeren &amp; Ghent, Belgium"
+  },
+  {
+    "username": "steveklabnik",
+    "contributions": 1317,
+    "location": "Hollywood, CA"
+  },
+  {
+    "username": "stof",
+    "contributions": 1315,
+    "location": "Paris"
+  },
+  {
+    "username": "darwin",
+    "contributions": 1312,
+    "location": "Prague, Czech Republic"
+  },
+  {
+    "username": "scottjehl",
+    "contributions": 1308,
+    "location": "Boston"
+  },
+  {
+    "username": "EvanDotPro",
+    "contributions": 1308,
+    "location": "Gilbert, Arizona"
+  },
+  {
+    "username": "christkv",
+    "contributions": 1307,
+    "location": "Barcelona, Spain"
+  },
+  {
+    "username": "hadley",
+    "contributions": 1305,
+    "location": "Houston, TX"
+  },
+  {
+    "username": "mmcgrana",
+    "contributions": 1295,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "vrana",
+    "contributions": 1283,
+    "location": "Unknown"
+  },
+  {
+    "username": "ingydotnet",
+    "contributions": 1277,
+    "location": "Seattle"
+  },
+  {
+    "username": "headius",
+    "contributions": 1274,
+    "location": "Unknown"
+  },
+  {
+    "username": "aslakhellesoy",
+    "contributions": 1272,
+    "location": "London, UK"
+  },
+  {
+    "username": "ricardoquesada",
+    "contributions": 1271,
+    "location": "San Francisco, CA. USA"
+  },
+  {
+    "username": "tenderlove",
+    "contributions": 1268,
+    "location": "Seattle"
+  },
+  {
+    "username": "thomasdavis",
+    "contributions": 1260,
+    "location": "Brisbane, Australia"
+  },
+  {
+    "username": "straup",
+    "contributions": 1260,
+    "location": "New York City"
+  },
+  {
+    "username": "kriskowal",
+    "contributions": 1250,
+    "location": "Pasadena, CA, USA"
+  },
+  {
+    "username": "qmx",
+    "contributions": 1249,
+    "location": "Sao Paulo, Brazil"
+  },
+  {
+    "username": "lestrrat",
+    "contributions": 1244,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "paulirish",
+    "contributions": 1239,
+    "location": "San Francisco"
+  },
+  {
+    "username": "matz",
+    "contributions": 1224,
+    "location": "Matsue, Japan"
+  },
+  {
+    "username": "sartak",
+    "contributions": 1224,
+    "location": "Somerville, MA"
+  },
+  {
+    "username": "weaverryan",
+    "contributions": 1223,
+    "location": "Nashville, TN"
+  },
+  {
+    "username": "cjohansen",
+    "contributions": 1206,
+    "location": "Oslo"
+  },
+  {
+    "username": "indexzero",
+    "contributions": 1201,
+    "location": "NYC"
+  },
+  {
+    "username": "wagenet",
+    "contributions": 1192,
+    "location": "Orange County, CA"
+  },
+  {
+    "username": "philsturgeon",
+    "contributions": 1187,
+    "location": "Bristol, UK"
+  },
+  {
+    "username": "bobtfish",
+    "contributions": 1183,
+    "location": "London"
+  },
+  {
+    "username": "fengmk2",
+    "contributions": 1181,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "derickr",
+    "contributions": 1176,
+    "location": "London, England"
+  },
+  {
+    "username": "viatropos",
+    "contributions": 1165,
+    "location": "San Francisco"
+  },
+  {
+    "username": "sebastianbergmann",
+    "contributions": 1158,
+    "location": "Siegburg, Germany"
+  },
+  {
+    "username": "carlosantoniodasilva",
+    "contributions": 1156,
+    "location": "Rio do Sul, Santa Catarina, Brasil"
+  },
+  {
+    "username": "jverkoey",
+    "contributions": 1154,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "JacksonTian",
+    "contributions": 1153,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "laruence",
+    "contributions": 1153,
+    "location": "China"
+  },
+  {
+    "username": "qiao",
+    "contributions": 1150,
+    "location": "Guangzhou, China"
+  },
+  {
+    "username": "kylemcdonald",
+    "contributions": 1146,
+    "location": "Brooklyn, New York"
+  },
+  {
+    "username": "dkubb",
+    "contributions": 1143,
+    "location": "Mission, BC, Canada"
+  },
+  {
+    "username": "example42",
+    "contributions": 1139,
+    "location": "Milan, Italy"
+  },
+  {
+    "username": "jezdez",
+    "contributions": 1138,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "obviousjim",
+    "contributions": 1132,
+    "location": "Brooklyn, New York"
+  },
+  {
+    "username": "kaepora",
+    "contributions": 1126,
+    "location": "Montréal, QC"
+  },
+  {
+    "username": "tyru",
+    "contributions": 1125,
+    "location": "Unknown"
+  },
+  {
+    "username": "soffes",
+    "contributions": 1111,
+    "location": "Louisville"
+  },
+  {
+    "username": "saberma",
+    "contributions": 1107,
+    "location": "ShenZhen China"
+  },
+  {
+    "username": "ogrisel",
+    "contributions": 1107,
+    "location": "Paris, France"
+  },
+  {
+    "username": "schmittjoh",
+    "contributions": 1106,
+    "location": "Unknown"
+  },
+  {
+    "username": "jmettraux",
+    "contributions": 1104,
+    "location": "Hiroshima"
+  },
+  {
+    "username": "tomas",
+    "contributions": 1104,
+    "location": "Santiago, Chile"
+  },
+  {
+    "username": "harrah",
+    "contributions": 1101,
+    "location": "Boston, MA"
+  },
+  {
+    "username": "ariya",
+    "contributions": 1099,
+    "location": "Unknown"
+  },
+  {
+    "username": "seancribbs",
+    "contributions": 1090,
+    "location": "DeKalb, IL"
+  },
+  {
+    "username": "codahale",
+    "contributions": 1077,
+    "location": "Berkeley, CA"
+  },
+  {
+    "username": "felixge",
+    "contributions": 1070,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "pgte",
+    "contributions": 1066,
+    "location": "Portugal"
+  },
+  {
+    "username": "drogus",
+    "contributions": 1062,
+    "location": "Warsaw"
+  },
+  {
+    "username": "daaku",
+    "contributions": 1062,
+    "location": "Unknown"
+  },
+  {
+    "username": "marcuswestin",
+    "contributions": 1060,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "Cocoanetics",
+    "contributions": 1057,
+    "location": "Weistrach, Austria"
+  },
+  {
+    "username": "turicas",
+    "contributions": 1044,
+    "location": "Niterói, Rio de Janeiro - Brasil"
+  },
+  {
+    "username": "pengwynn",
+    "contributions": 1033,
+    "location": "TX"
+  },
+  {
+    "username": "koush",
+    "contributions": 1032,
+    "location": "Seattle, WA"
+  },
+  {
+    "username": "bnoguchi",
+    "contributions": 1027,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "mislav",
+    "contributions": 1018,
+    "location": "Unknown"
+  },
+  {
+    "username": "jamesward",
+    "contributions": 1017,
+    "location": "Unknown"
+  },
+  {
+    "username": "schneems",
+    "contributions": 1014,
+    "location": "Austin, Tx"
+  },
+  {
+    "username": "fat",
+    "contributions": 1008,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "antirez",
+    "contributions": 1008,
+    "location": "Campobello di Licata, Sicily, Italy"
+  },
+  {
+    "username": "chjj",
+    "contributions": 1000,
+    "location": "MN"
+  },
+  {
+    "username": "desandro",
+    "contributions": 978,
+    "location": "Brooklyn, NY"
+  },
+  {
+    "username": "heynemann",
+    "contributions": 978,
+    "location": "Rio de Janeiro, RJ, Brazil"
+  },
+  {
+    "username": "mde",
+    "contributions": 967,
+    "location": "San Francisco, California, USA"
+  },
+  {
+    "username": "solnic",
+    "contributions": 962,
+    "location": "Poland, Kraków"
+  },
+  {
+    "username": "technoweenie",
+    "contributions": 954,
+    "location": "Rapid City, SD"
+  },
+  {
+    "username": "ai",
+    "contributions": 953,
+    "location": "Saint Petersburg, Russia"
+  },
+  {
+    "username": "jtauber",
+    "contributions": 951,
+    "location": "Burlington, MA"
+  },
+  {
+    "username": "cheeaun",
+    "contributions": 951,
+    "location": "Singapore"
+  },
+  {
+    "username": "hsbt",
+    "contributions": 949,
+    "location": "Japan"
+  },
+  {
+    "username": "petdance",
+    "contributions": 945,
+    "location": "McHenry, IL"
+  },
+  {
+    "username": "jonleighton",
+    "contributions": 945,
+    "location": "London"
+  },
+  {
+    "username": "arturoc",
+    "contributions": 940,
+    "location": "Unknown"
+  },
+  {
+    "username": "rmcc",
+    "contributions": 940,
+    "location": "Unknown"
+  },
+  {
+    "username": "dscape",
+    "contributions": 934,
+    "location": "Portugal"
+  },
+  {
+    "username": "ericholscher",
+    "contributions": 926,
+    "location": "Portland, Or"
+  },
+  {
+    "username": "roidrage",
+    "contributions": 924,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "xdite",
+    "contributions": 923,
+    "location": "Taipei, Taiwan / San Francisco"
+  },
+  {
+    "username": "vojtajina",
+    "contributions": 912,
+    "location": "San Francisco Bay Area"
+  },
+  {
+    "username": "Quarx2k",
+    "contributions": 909,
+    "location": "Russia, Omsk"
+  },
+  {
+    "username": "nacin",
+    "contributions": 905,
+    "location": "Washington, D.C."
+  },
+  {
+    "username": "jmathai",
+    "contributions": 894,
+    "location": "San Francisco / Sunnyvale, CA USA"
+  },
+  {
+    "username": "michaelficarra",
+    "contributions": 883,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "frsyuki",
+    "contributions": 879,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "johnmyleswhite",
+    "contributions": 879,
+    "location": "Brooklyn, NY"
+  },
+  {
+    "username": "zenspider",
+    "contributions": 869,
+    "location": "Seattle, WA"
+  },
+  {
+    "username": "sergeche",
+    "contributions": 861,
+    "location": "Moscow, Russia"
+  },
+  {
+    "username": "estelle",
+    "contributions": 860,
+    "location": "California, USA"
+  },
+  {
+    "username": "jesusabdullah",
+    "contributions": 859,
+    "location": "Goa, India"
+  },
+  {
+    "username": "codeworkx",
+    "contributions": 850,
+    "location": "Germany"
+  },
+  {
+    "username": "ProLoser",
+    "contributions": 846,
+    "location": "San Francisco"
+  },
+  {
+    "username": "coleifer",
+    "contributions": 844,
+    "location": "Lawrence, KS"
+  },
+  {
+    "username": "falconindy",
+    "contributions": 842,
+    "location": "New York City"
+  },
+  {
+    "username": "vmg",
+    "contributions": 838,
+    "location": "Europe"
+  },
+  {
+    "username": "gfx",
+    "contributions": 836,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "soyjavi",
+    "contributions": 835,
+    "location": "Bilbao, Spain"
+  },
+  {
+    "username": "mperham",
+    "contributions": 834,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "jnunemaker",
+    "contributions": 832,
+    "location": "South Bend, IN, USA"
+  },
+  {
+    "username": "weavejester",
+    "contributions": 829,
+    "location": "London, UK"
+  },
+  {
+    "username": "caolan",
+    "contributions": 824,
+    "location": "Vancouver, BC"
+  },
+  {
+    "username": "tdreyno",
+    "contributions": 824,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "phus",
+    "contributions": 822,
+    "location": "Nanjing, China"
+  },
+  {
+    "username": "darkwing",
+    "contributions": 816,
+    "location": "Madison, Wisconsin, United States"
+  },
+  {
+    "username": "nvie",
+    "contributions": 815,
+    "location": "Netherlands"
+  },
+  {
+    "username": "jasondavies",
+    "contributions": 813,
+    "location": "London, UK"
+  },
+  {
+    "username": "3rd-Eden",
+    "contributions": 808,
+    "location": "The Netherlands"
+  },
+  {
+    "username": "IgorMinar",
+    "contributions": 807,
+    "location": "SF Bay Area, CA"
+  },
+  {
+    "username": "FooBarWidget",
+    "contributions": 806,
+    "location": "Unknown"
+  },
+  {
+    "username": "sorbits",
+    "contributions": 799,
+    "location": "Denmark"
+  },
+  {
+    "username": "alteredq",
+    "contributions": 797,
+    "location": "Unknown"
+  },
+  {
+    "username": "leto",
+    "contributions": 796,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "bobthecow",
+    "contributions": 785,
+    "location": "Unknown"
+  },
+  {
+    "username": "holman",
+    "contributions": 783,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "matthewmccullough",
+    "contributions": 779,
+    "location": "Denver, CO USA"
+  },
+  {
+    "username": "roxlu",
+    "contributions": 777,
+    "location": "Unknown"
+  },
+  {
+    "username": "lukeredpath",
+    "contributions": 775,
+    "location": "London, UK"
+  },
+  {
+    "username": "nex3",
+    "contributions": 772,
+    "location": "Seattle"
+  },
+  {
+    "username": "fxn",
+    "contributions": 772,
+    "location": "Barcelona"
+  },
+  {
+    "username": "jed",
+    "contributions": 768,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "fogus",
+    "contributions": 765,
+    "location": "DC"
+  },
+  {
+    "username": "n8han",
+    "contributions": 765,
+    "location": "New York"
+  },
+  {
+    "username": "mathiasbynens",
+    "contributions": 759,
+    "location": "Belgium"
+  },
+  {
+    "username": "jedi4ever",
+    "contributions": 758,
+    "location": "Belgium"
+  },
+  {
+    "username": "chrisdone",
+    "contributions": 753,
+    "location": "Italy"
+  },
+  {
+    "username": "skanev",
+    "contributions": 751,
+    "location": "Sofia, Bulgaria"
+  },
+  {
+    "username": "ccampbell",
+    "contributions": 751,
+    "location": "New York, NY"
+  },
+  {
+    "username": "juanplopes",
+    "contributions": 744,
+    "location": "Rio de Janeiro"
+  },
+  {
+    "username": "spullara",
+    "contributions": 743,
+    "location": "Los Altos, CA"
+  },
+  {
+    "username": "ianb",
+    "contributions": 742,
+    "location": "Minneapolis, Minnesota, USA"
+  },
+  {
+    "username": "antimatter15",
+    "contributions": 741,
+    "location": "Unknown"
+  },
+  {
+    "username": "migueldeicaza",
+    "contributions": 736,
+    "location": "Boston, MA."
+  },
+  {
+    "username": "WardCunningham",
+    "contributions": 733,
+    "location": "Portland, Oregon"
+  },
+  {
+    "username": "bbatsov",
+    "contributions": 732,
+    "location": "Sofia, Bulgaria"
+  },
+  {
+    "username": "maccman",
+    "contributions": 723,
+    "location": "San Francisco"
+  },
+  {
+    "username": "nicolasgramlich",
+    "contributions": 721,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "millermedeiros",
+    "contributions": 718,
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "username": "dennisreimann",
+    "contributions": 713,
+    "location": "Bremen, Germany"
+  },
+  {
+    "username": "evanphx",
+    "contributions": 712,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "username": "thinca",
+    "contributions": 710,
+    "location": "Unknown"
+  },
+  {
+    "username": "cortesi",
+    "contributions": 709,
+    "location": "Dunedin, New Zealand"
+  },
+  {
+    "username": "miyagawa",
+    "contributions": 705,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "janl",
+    "contributions": 705,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "sofish",
+    "contributions": 704,
+    "location": "China"
+  },
+  {
+    "username": "gugod",
+    "contributions": 704,
+    "location": "Amsterdam, Netherlands"
+  },
+  {
+    "username": "harperreed",
+    "contributions": 702,
+    "location": "Chicago, Il"
+  },
+  {
+    "username": "lorenzo",
+    "contributions": 696,
+    "location": "Caracas, Venezuela"
+  },
+  {
+    "username": "ripienaar",
+    "contributions": 694,
+    "location": "London"
+  },
+  {
+    "username": "melo",
+    "contributions": 692,
+    "location": "Figueira da Foz, Portugal"
+  },
+  {
+    "username": "schwa",
+    "contributions": 689,
+    "location": "Emeryville CA"
+  },
+  {
+    "username": "jimweirich",
+    "contributions": 688,
+    "location": "Cincinnati"
+  },
+  {
+    "username": "cyanogen",
+    "contributions": 685,
+    "location": "Seattle, WA"
+  },
+  {
+    "username": "stevan",
+    "contributions": 684,
+    "location": "Unknown"
+  },
+  {
+    "username": "wycats",
+    "contributions": 682,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jnicklas",
+    "contributions": 681,
+    "location": "Sweden"
+  },
+  {
+    "username": "akrabat",
+    "contributions": 681,
+    "location": "Worcester, UK"
+  },
+  {
+    "username": "huacnlee",
+    "contributions": 680,
+    "location": "Hangzhou,China"
+  },
+  {
+    "username": "yhahn",
+    "contributions": 680,
+    "location": "DC"
+  },
+  {
+    "username": "freexperia",
+    "contributions": 678,
+    "location": "Unknown"
+  },
+  {
+    "username": "iamcal",
+    "contributions": 675,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "bobuk",
+    "contributions": 672,
+    "location": "Russia, Moscow"
+  },
+  {
+    "username": "piscisaureus",
+    "contributions": 671,
+    "location": "Amsterdam"
+  },
+  {
+    "username": "tpope",
+    "contributions": 669,
+    "location": "Jacksonville Beach, FL"
+  },
+  {
+    "username": "maxlapshin",
+    "contributions": 667,
+    "location": "Moscow, Russia"
+  },
+  {
+    "username": "PrimaryFeather",
+    "contributions": 654,
+    "location": "Austria"
+  },
+  {
+    "username": "kgn",
+    "contributions": 650,
+    "location": "Irvine, CA"
+  },
+  {
+    "username": "assaf",
+    "contributions": 649,
+    "location": "Bay Area, CA"
+  },
+  {
+    "username": "cpojer",
+    "contributions": 648,
+    "location": "Graz, Austria"
+  },
+  {
+    "username": "tibbe",
+    "contributions": 648,
+    "location": "San Francisco"
+  },
+  {
+    "username": "bradfitz",
+    "contributions": 646,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "Marak",
+    "contributions": 643,
+    "location": "Goa, India"
+  },
+  {
+    "username": "ericbarnes",
+    "contributions": 639,
+    "location": "North Carolina"
+  },
+  {
+    "username": "nimbupani",
+    "contributions": 638,
+    "location": "San Francisco"
+  },
+  {
+    "username": "mishoo",
+    "contributions": 634,
+    "location": "Unknown"
+  },
+  {
+    "username": "ebidel",
+    "contributions": 632,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "loopj",
+    "contributions": 632,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "alexyoung",
+    "contributions": 625,
+    "location": "London, England"
+  },
+  {
+    "username": "tobeytailor",
+    "contributions": 622,
+    "location": "Munich"
+  },
+  {
+    "username": "bryanveloso",
+    "contributions": 617,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "username": "chriso",
+    "contributions": 616,
+    "location": "Sydney, Australia"
+  },
+  {
+    "username": "gabrielfalcao",
+    "contributions": 612,
+    "location": "New York - NY"
+  },
+  {
+    "username": "csswizardry",
+    "contributions": 605,
+    "location": "Leeds, UK"
+  },
+  {
+    "username": "nicksieger",
+    "contributions": 599,
+    "location": "Minneapolis, MN, USA"
+  },
+  {
+    "username": "naderman",
+    "contributions": 598,
+    "location": "Karlsruhe, Germany"
+  },
+  {
+    "username": "arturadib",
+    "contributions": 598,
+    "location": "Burlington, VT"
+  },
+  {
+    "username": "astaxie",
+    "contributions": 594,
+    "location": "shanghai  china"
+  },
+  {
+    "username": "samdark",
+    "contributions": 590,
+    "location": "Russia"
+  },
+  {
+    "username": "mnot",
+    "contributions": 583,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "qrush",
+    "contributions": 578,
+    "location": "Buffalo, NY"
+  },
+  {
+    "username": "ttscoff",
+    "contributions": 578,
+    "location": "Winona, MN USA"
+  },
+  {
+    "username": "ralphschindler",
+    "contributions": 576,
+    "location": "New Orleans, Louisiana"
+  },
+  {
+    "username": "brosner",
+    "contributions": 573,
+    "location": "Denver, CO"
+  },
+  {
+    "username": "audreyt",
+    "contributions": 572,
+    "location": "Taipei, Taiwan"
+  },
+  {
+    "username": "ofZach",
+    "contributions": 571,
+    "location": "Unknown"
+  },
+  {
+    "username": "hakimel",
+    "contributions": 570,
+    "location": "NYC"
+  },
+  {
+    "username": "myusuf3",
+    "contributions": 570,
+    "location": "Ottawa, Canada"
+  },
+  {
+    "username": "trapd00r",
+    "contributions": 569,
+    "location": "Norrköping, Sweden"
+  },
+  {
+    "username": "alganet",
+    "contributions": 567,
+    "location": "São Paulo, SP, Brasil"
+  },
+  {
+    "username": "killme2008",
+    "contributions": 566,
+    "location": "BeiJing,China"
+  },
+  {
+    "username": "DataTables",
+    "contributions": 563,
+    "location": "Unknown"
+  },
+  {
+    "username": "fzaninotto",
+    "contributions": 563,
+    "location": "Paris, France"
+  },
+  {
+    "username": "rs",
+    "contributions": 561,
+    "location": "France, Paris"
+  },
+  {
+    "username": "johnpolacek",
+    "contributions": 561,
+    "location": "Chicago"
+  },
+  {
+    "username": "karmi",
+    "contributions": 558,
+    "location": "Prague, Czech Republic"
+  },
+  {
+    "username": "bschussek",
+    "contributions": 554,
+    "location": "Vienna, Austria"
+  },
+  {
+    "username": "martine",
+    "contributions": 551,
+    "location": "San Francisco"
+  },
+  {
+    "username": "cloudhead",
+    "contributions": 548,
+    "location": "Berlin"
+  },
+  {
+    "username": "myell0w",
+    "contributions": 547,
+    "location": "Vienna"
+  },
+  {
+    "username": "ztellman",
+    "contributions": 542,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "tualatrix",
+    "contributions": 541,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "kentaro",
+    "contributions": 539,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "necolas",
+    "contributions": 536,
+    "location": "London, UK"
+  },
+  {
+    "username": "lyricat",
+    "contributions": 536,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "mizzy",
+    "contributions": 536,
+    "location": "Kanagawa, Japan"
+  },
+  {
+    "username": "chrisbanes",
+    "contributions": 535,
+    "location": "London, UK"
+  },
+  {
+    "username": "JeffreyZhao",
+    "contributions": 534,
+    "location": "China"
+  },
+  {
+    "username": "rodjek",
+    "contributions": 534,
+    "location": "Sydney"
+  },
+  {
+    "username": "rgrove",
+    "contributions": 532,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "aaronsw",
+    "contributions": 529,
+    "location": "Unknown"
+  },
+  {
+    "username": "xaviershay",
+    "contributions": 527,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "iros",
+    "contributions": 527,
+    "location": "Cambridge MA"
+  },
+  {
+    "username": "daylerees",
+    "contributions": 525,
+    "location": "Wales, UK"
+  },
+  {
+    "username": "dchelimsky",
+    "contributions": 524,
+    "location": "Chicago, IL, USA"
+  },
+  {
+    "username": "TheRealKerni",
+    "contributions": 524,
+    "location": "Bietigheim-Bissingen, Germany"
+  },
+  {
+    "username": "tekkub",
+    "contributions": 517,
+    "location": "Denver, CO"
+  },
+  {
+    "username": "bodil",
+    "contributions": 513,
+    "location": "Oslo, Norway"
+  },
+  {
+    "username": "svetlyak40wt",
+    "contributions": 505,
+    "location": "Moscow"
+  },
+  {
+    "username": "joshuaclayton",
+    "contributions": 503,
+    "location": "Boston, MA"
+  },
+  {
+    "username": "pershoot",
+    "contributions": 503,
+    "location": "Unknown"
+  },
+  {
+    "username": "indirect",
+    "contributions": 502,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jchris",
+    "contributions": 501,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "ginatrapani",
+    "contributions": 498,
+    "location": "San Diego, CA"
+  },
+  {
+    "username": "SlexAxton",
+    "contributions": 496,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "robhudson",
+    "contributions": 495,
+    "location": "Eugene, Oregon"
+  },
+  {
+    "username": "atmos",
+    "contributions": 494,
+    "location": "Potrero, SF"
+  },
+  {
+    "username": "walf443",
+    "contributions": 493,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "ioerror",
+    "contributions": 492,
+    "location": "Unknown"
+  },
+  {
+    "username": "pquerna",
+    "contributions": 492,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "mattetti",
+    "contributions": 491,
+    "location": "San Diego, CA"
+  },
+  {
+    "username": "antonkovalyov",
+    "contributions": 490,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "alex",
+    "contributions": 487,
+    "location": "San Francisco"
+  },
+  {
+    "username": "nikic",
+    "contributions": 484,
+    "location": "Unknown"
+  },
+  {
+    "username": "fredwu",
+    "contributions": 483,
+    "location": "Melbourne, Australia (Shanghai, China)"
+  },
+  {
+    "username": "codeguy",
+    "contributions": 481,
+    "location": "Chapel Hill, North Carolina"
+  },
+  {
+    "username": "isagalaev",
+    "contributions": 480,
+    "location": "Redmond, WA, USA"
+  },
+  {
+    "username": "progrium",
+    "contributions": 476,
+    "location": "Berkeley, CA"
+  },
+  {
+    "username": "youpy",
+    "contributions": 474,
+    "location": "Japan"
+  },
+  {
+    "username": "robashton",
+    "contributions": 474,
+    "location": "Reading, UK"
+  },
+  {
+    "username": "paulrouget",
+    "contributions": 472,
+    "location": "Unknown"
+  },
+  {
+    "username": "maryrosecook",
+    "contributions": 472,
+    "location": "Unknown"
+  },
+  {
+    "username": "davies",
+    "contributions": 471,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "pat",
+    "contributions": 469,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "sorah",
+    "contributions": 469,
+    "location": "Utsunomiya, Tochigi, Japan"
+  },
+  {
+    "username": "kangax",
+    "contributions": 467,
+    "location": "New York"
+  },
+  {
+    "username": "cho45",
+    "contributions": 463,
+    "location": "Japan"
+  },
+  {
+    "username": "kamicane",
+    "contributions": 462,
+    "location": "Rome, Italy"
+  },
+  {
+    "username": "zaach",
+    "contributions": 461,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "altercation",
+    "contributions": 460,
+    "location": "Seattle"
+  },
+  {
+    "username": "tom3q",
+    "contributions": 454,
+    "location": "Warsaw, Poland"
+  },
+  {
+    "username": "takano32",
+    "contributions": 453,
+    "location": "Roppongi, Tokyo, Japan"
+  },
+  {
+    "username": "dual3nigma",
+    "contributions": 453,
+    "location": "Coatepec, Veracruz, México"
+  },
+  {
+    "username": "schwern",
+    "contributions": 450,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "m2ym",
+    "contributions": 450,
+    "location": "Unknown"
+  },
+  {
+    "username": "bartaz",
+    "contributions": 449,
+    "location": "Poznań, Poland"
+  },
+  {
+    "username": "qiangxue",
+    "contributions": 448,
+    "location": "Virginia, U.S.A."
+  },
+  {
+    "username": "idan",
+    "contributions": 442,
+    "location": "Tel Aviv, Israel"
+  },
+  {
+    "username": "garethr",
+    "contributions": 440,
+    "location": "Cambridge"
+  },
+  {
+    "username": "splittingred",
+    "contributions": 439,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "feross",
+    "contributions": 438,
+    "location": "Stanford, CA"
+  },
+  {
+    "username": "chromakode",
+    "contributions": 433,
+    "location": "frontendshire"
+  },
+  {
+    "username": "BYVoid",
+    "contributions": 433,
+    "location": "Beijng, China"
+  },
+  {
+    "username": "mixu",
+    "contributions": 432,
+    "location": "San Francisco, California"
+  },
+  {
+    "username": "ahoward",
+    "contributions": 431,
+    "location": "2030 17th street, boulder, co, 80302"
+  },
+  {
+    "username": "mitsuhiko",
+    "contributions": 425,
+    "location": "United Kingdom / Austria"
+  },
+  {
+    "username": "mikeal",
+    "contributions": 425,
+    "location": "Oakland, CA, USA"
+  },
+  {
+    "username": "jonrohan",
+    "contributions": 423,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "spastorino",
+    "contributions": 422,
+    "location": "Montevideo, Uruguay"
+  },
+  {
+    "username": "nateabele",
+    "contributions": 417,
+    "location": "Philadelphia, PA"
+  },
+  {
+    "username": "avalanche123",
+    "contributions": 412,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "coreyhaines",
+    "contributions": 409,
+    "location": "chicago, il"
+  },
+  {
+    "username": "ryanb",
+    "contributions": 407,
+    "location": "Southern Oregon"
+  },
+  {
+    "username": "memo",
+    "contributions": 407,
+    "location": "London"
+  },
+  {
+    "username": "juliamae",
+    "contributions": 406,
+    "location": "Cleveland, Ohio"
+  },
+  {
+    "username": "jamierumbelow",
+    "contributions": 403,
+    "location": "Cambridge, UK"
+  },
+  {
+    "username": "tpruvot",
+    "contributions": 402,
+    "location": "Paris, France"
+  },
+  {
+    "username": "AD7six",
+    "contributions": 399,
+    "location": "Spain"
+  },
+  {
+    "username": "andreasgal",
+    "contributions": 399,
+    "location": "Unknown"
+  },
+  {
+    "username": "guillaumebort",
+    "contributions": 398,
+    "location": "Paris"
+  },
+  {
+    "username": "ajpiano",
+    "contributions": 397,
+    "location": "Unknown"
+  },
+  {
+    "username": "blueimp",
+    "contributions": 396,
+    "location": "Unknown"
+  },
+  {
+    "username": "dhh",
+    "contributions": 394,
+    "location": "Chicago, USA"
+  },
+  {
+    "username": "jamtur01",
+    "contributions": 391,
+    "location": "Brooklyn, New York"
+  },
+  {
+    "username": "ofTheo",
+    "contributions": 390,
+    "location": "Unknown"
+  },
+  {
+    "username": "jeromegn",
+    "contributions": 385,
+    "location": "Montreal, QC"
+  },
+  {
+    "username": "imakewebthings",
+    "contributions": 382,
+    "location": "Corning, CA"
+  },
+  {
+    "username": "mhevery",
+    "contributions": 380,
+    "location": "Unknown"
+  },
+  {
+    "username": "hitode909",
+    "contributions": 380,
+    "location": "Unknown"
+  },
+  {
+    "username": "judofyr",
+    "contributions": 377,
+    "location": "Oslo, Norway"
+  },
+  {
+    "username": "ramalho",
+    "contributions": 375,
+    "location": "São Paulo - Brasil"
+  },
+  {
+    "username": "arunagw",
+    "contributions": 373,
+    "location": "New Delhi, India"
+  },
+  {
+    "username": "masuidrive",
+    "contributions": 370,
+    "location": "Tokyo, JP"
+  },
+  {
+    "username": "kswedberg",
+    "contributions": 369,
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "username": "j2labs",
+    "contributions": 369,
+    "location": "Brooklyn, NY"
+  },
+  {
+    "username": "sugyan",
+    "contributions": 368,
+    "location": "Japan"
+  },
+  {
+    "username": "cloudwu",
+    "contributions": 367,
+    "location": "Unknown"
+  },
+  {
+    "username": "guilhermeblanco",
+    "contributions": 367,
+    "location": "Toronto, ON, Canada"
+  },
+  {
+    "username": "Wilto",
+    "contributions": 367,
+    "location": "Somerville, MA"
+  },
+  {
+    "username": "maxogden",
+    "contributions": 366,
+    "location": "Oakland, CA (recruiters: please don't ever email me)"
+  },
+  {
+    "username": "mohamedmansour",
+    "contributions": 365,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "stuartsierra",
+    "contributions": 365,
+    "location": "Unknown"
+  },
+  {
+    "username": "jamesgolick",
+    "contributions": 364,
+    "location": "Vancouver, BC"
+  },
+  {
+    "username": "kriszyp",
+    "contributions": 362,
+    "location": "Sandy, UT"
+  },
+  {
+    "username": "dexteryy",
+    "contributions": 362,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "LeaVerou",
+    "contributions": 360,
+    "location": "Greece"
+  },
+  {
+    "username": "tmpvar",
+    "contributions": 359,
+    "location": "Roaming"
+  },
+  {
+    "username": "croaky",
+    "contributions": 357,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jboner",
+    "contributions": 356,
+    "location": "Uppsala, Sweden"
+  },
+  {
+    "username": "alexott",
+    "contributions": 356,
+    "location": "Paderborn, Germany"
+  },
+  {
+    "username": "unconed",
+    "contributions": 353,
+    "location": "Unknown"
+  },
+  {
+    "username": "ashchan",
+    "contributions": 353,
+    "location": "Saitama Japan (Hangzhou, China)"
+  },
+  {
+    "username": "padolsey",
+    "contributions": 351,
+    "location": "London, UK, Europe"
+  },
+  {
+    "username": "soveran",
+    "contributions": 351,
+    "location": "Buenos Aires, Argentina"
+  },
+  {
+    "username": "methodmissing",
+    "contributions": 348,
+    "location": "Funchal, Madeira, Portugal"
+  },
+  {
+    "username": "schacon",
+    "contributions": 347,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "igrigorik",
+    "contributions": 347,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "commonsguy",
+    "contributions": 346,
+    "location": "Unknown"
+  },
+  {
+    "username": "finscn",
+    "contributions": 346,
+    "location": "China"
+  },
+  {
+    "username": "jeremy",
+    "contributions": 345,
+    "location": "Tempe, AZ"
+  },
+  {
+    "username": "chenshuo",
+    "contributions": 345,
+    "location": "China"
+  },
+  {
+    "username": "gf3",
+    "contributions": 345,
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "username": "scrooloose",
+    "contributions": 344,
+    "location": "UK"
+  },
+  {
+    "username": "ladyada",
+    "contributions": 343,
+    "location": "New York, NY"
+  },
+  {
+    "username": "kitcambridge",
+    "contributions": 343,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "technicalpickles",
+    "contributions": 339,
+    "location": "Savannah, GA"
+  },
+  {
+    "username": "kr",
+    "contributions": 338,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jugyo",
+    "contributions": 337,
+    "location": "Tokyo"
+  },
+  {
+    "username": "briandfoy",
+    "contributions": 335,
+    "location": "Unknown"
+  },
+  {
+    "username": "benedmunds",
+    "contributions": 334,
+    "location": "Phenix City, AL, USA"
+  },
+  {
+    "username": "sintaxi",
+    "contributions": 331,
+    "location": "Vancouver"
+  },
+  {
+    "username": "brianleroux",
+    "contributions": 328,
+    "location": "San Francisco, USA || Vancouver, Canada"
+  },
+  {
+    "username": "bkeepers",
+    "contributions": 326,
+    "location": "Holland, MI, US"
+  },
+  {
+    "username": "wayneeseguin",
+    "contributions": 324,
+    "location": "Buffalo, NY"
+  },
+  {
+    "username": "BradLarson",
+    "contributions": 322,
+    "location": "Madison, WI USA"
+  },
+  {
+    "username": "samvermette",
+    "contributions": 321,
+    "location": "Montreal"
+  },
+  {
+    "username": "harthur",
+    "contributions": 321,
+    "location": "San Francisco, USA"
+  },
+  {
+    "username": "jeresig",
+    "contributions": 320,
+    "location": "Brooklyn, NY"
+  },
+  {
+    "username": "rpetrich",
+    "contributions": 314,
+    "location": "Unknown"
+  },
+  {
+    "username": "karlseguin",
+    "contributions": 314,
+    "location": "Unknown"
+  },
+  {
+    "username": "fnando",
+    "contributions": 313,
+    "location": "São Paulo, Brazil"
+  },
+  {
+    "username": "zacharyvoase",
+    "contributions": 311,
+    "location": "Unknown"
+  },
+  {
+    "username": "codebutler",
+    "contributions": 309,
+    "location": "Seattle, WA"
+  },
+  {
+    "username": "trevorturk",
+    "contributions": 305,
+    "location": "Chicago"
+  },
+  {
+    "username": "kballard",
+    "contributions": 305,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "gregkh",
+    "contributions": 304,
+    "location": "Unknown"
+  },
+  {
+    "username": "rsms",
+    "contributions": 301,
+    "location": "San Francisco"
+  },
+  {
+    "username": "henriquebastos",
+    "contributions": 300,
+    "location": "Rio de Janeiro, Brasil"
+  },
+  {
+    "username": "kazuho",
+    "contributions": 300,
+    "location": "Tokyo"
+  },
+  {
+    "username": "jwage",
+    "contributions": 299,
+    "location": "Nashville, TN"
+  },
+  {
+    "username": "typester",
+    "contributions": 299,
+    "location": "Kamakura, Japan"
+  },
+  {
+    "username": "markjaquith",
+    "contributions": 298,
+    "location": "Tampa, FL"
+  },
+  {
+    "username": "simurai",
+    "contributions": 298,
+    "location": "Netherlands"
+  },
+  {
+    "username": "mubix",
+    "contributions": 298,
+    "location": "Unknown"
+  },
+  {
+    "username": "Sutto",
+    "contributions": 297,
+    "location": "Perth, Western Australia"
+  },
+  {
+    "username": "tmm1",
+    "contributions": 296,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "robbiehanson",
+    "contributions": 294,
+    "location": "San Francisco"
+  },
+  {
+    "username": "motemen",
+    "contributions": 293,
+    "location": "Kyoto, Japan"
+  },
+  {
+    "username": "swaroopch",
+    "contributions": 293,
+    "location": "India"
+  },
+  {
+    "username": "voodootikigod",
+    "contributions": 288,
+    "location": "Reston, VA"
+  },
+  {
+    "username": "kriswallsmith",
+    "contributions": 287,
+    "location": "Portland, Oregon USA"
+  },
+  {
+    "username": "mikechambers",
+    "contributions": 287,
+    "location": "Unknown"
+  },
+  {
+    "username": "opencart",
+    "contributions": 287,
+    "location": "Hong Kong"
+  },
+  {
+    "username": "JackDanger",
+    "contributions": 282,
+    "location": "San Francisco"
+  },
+  {
+    "username": "chriseppstein",
+    "contributions": 280,
+    "location": "San Jose, CA"
+  },
+  {
+    "username": "nelstrom",
+    "contributions": 279,
+    "location": "London, UK"
+  },
+  {
+    "username": "nicklockwood",
+    "contributions": 279,
+    "location": "UK"
+  },
+  {
+    "username": "fgnass",
+    "contributions": 279,
+    "location": "Hamburg, Germany"
+  },
+  {
+    "username": "mbleigh",
+    "contributions": 275,
+    "location": "Kansas City, MO"
+  },
+  {
+    "username": "getify",
+    "contributions": 273,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "moxie0",
+    "contributions": 272,
+    "location": "San Francisco"
+  },
+  {
+    "username": "mxcl",
+    "contributions": 270,
+    "location": "Wayland, MI"
+  },
+  {
+    "username": "madrobby",
+    "contributions": 269,
+    "location": "Philadelphia, PA"
+  },
+  {
+    "username": "SteveSanderson",
+    "contributions": 269,
+    "location": "Unknown"
+  },
+  {
+    "username": "trek",
+    "contributions": 267,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "dhgamache",
+    "contributions": 266,
+    "location": "SF Bay Area"
+  },
+  {
+    "username": "joehewitt",
+    "contributions": 263,
+    "location": "Los Gatos, CA"
+  },
+  {
+    "username": "verekia",
+    "contributions": 263,
+    "location": "Unknown"
+  },
+  {
+    "username": "Haacked",
+    "contributions": 262,
+    "location": "Unknown"
+  },
+  {
+    "username": "idiot",
+    "contributions": 262,
+    "location": "UK"
+  },
+  {
+    "username": "dshaw",
+    "contributions": 252,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "garybernhardt",
+    "contributions": 251,
+    "location": "Seattle, WA"
+  },
+  {
+    "username": "jamiew",
+    "contributions": 251,
+    "location": "San Francisco"
+  },
+  {
+    "username": "apotonick",
+    "contributions": 250,
+    "location": "Freiburg/Germany"
+  },
+  {
+    "username": "BonsaiDen",
+    "contributions": 249,
+    "location": "Mainz, Germany"
+  },
+  {
+    "username": "jacobian",
+    "contributions": 248,
+    "location": "Lawrence, KS"
+  },
+  {
+    "username": "videlalvaro",
+    "contributions": 246,
+    "location": "Zurich"
+  },
+  {
+    "username": "scottschiller",
+    "contributions": 246,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "MugunthKumar",
+    "contributions": 244,
+    "location": "Singapore"
+  },
+  {
+    "username": "pkrumins",
+    "contributions": 242,
+    "location": "Riga, Latvia"
+  },
+  {
+    "username": "PaulKinlan",
+    "contributions": 242,
+    "location": "a few places."
+  },
+  {
+    "username": "pgbovine",
+    "contributions": 242,
+    "location": "Unknown"
+  },
+  {
+    "username": "honcheng",
+    "contributions": 241,
+    "location": "Singapore"
+  },
+  {
+    "username": "DamianEdwards",
+    "contributions": 239,
+    "location": "Redmond, WA"
+  },
+  {
+    "username": "darscan",
+    "contributions": 236,
+    "location": "London, UK"
+  },
+  {
+    "username": "Victa",
+    "contributions": 236,
+    "location": "Paris, France"
+  },
+  {
+    "username": "tianyicui",
+    "contributions": 234,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "yusuke",
+    "contributions": 234,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "ded",
+    "contributions": 232,
+    "location": "San Francisco"
+  },
+  {
+    "username": "sstephenson",
+    "contributions": 231,
+    "location": "Chicago"
+  },
+  {
+    "username": "mhartl",
+    "contributions": 230,
+    "location": "Pasadena, CA"
+  },
+  {
+    "username": "paullewis",
+    "contributions": 230,
+    "location": "London, United Kingdom"
+  },
+  {
+    "username": "niw",
+    "contributions": 228,
+    "location": "San Francisco, CA and Tokyo, Japan"
+  },
+  {
+    "username": "komagata",
+    "contributions": 228,
+    "location": "Tokyo Japan"
+  },
+  {
+    "username": "toastdriven",
+    "contributions": 227,
+    "location": "Lawrence, KS"
+  },
+  {
+    "username": "manveru",
+    "contributions": 225,
+    "location": "Germany"
+  },
+  {
+    "username": "AvianFlu",
+    "contributions": 220,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "ubernostrum",
+    "contributions": 220,
+    "location": "Lawrence, Kansas, USA"
+  },
+  {
+    "username": "imathis",
+    "contributions": 219,
+    "location": "Birmingham, AL"
+  },
+  {
+    "username": "bradfrost",
+    "contributions": 218,
+    "location": "Pittsburgh, PA"
+  },
+  {
+    "username": "hij1nx",
+    "contributions": 217,
+    "location": "NYC"
+  },
+  {
+    "username": "glaforge",
+    "contributions": 217,
+    "location": "Paris, France"
+  },
+  {
+    "username": "rentzsch",
+    "contributions": 215,
+    "location": "Chicagoland+WI"
+  },
+  {
+    "username": "rafl",
+    "contributions": 215,
+    "location": "Chemnitz, Germany"
+  },
+  {
+    "username": "abraham",
+    "contributions": 209,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "nadlabak",
+    "contributions": 209,
+    "location": "Prague, Czech Republic"
+  },
+  {
+    "username": "robbyrussell",
+    "contributions": 207,
+    "location": "Portland, Oregon"
+  },
+  {
+    "username": "ibdknox",
+    "contributions": 206,
+    "location": "Unknown"
+  },
+  {
+    "username": "Caged",
+    "contributions": 206,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "brianmario",
+    "contributions": 206,
+    "location": "San Francisco, Ca"
+  },
+  {
+    "username": "devinsays",
+    "contributions": 205,
+    "location": "Austin, Texas"
+  },
+  {
+    "username": "hongqn",
+    "contributions": 205,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "fitzgen",
+    "contributions": 205,
+    "location": "Bellingham, WA"
+  },
+  {
+    "username": "kakutani",
+    "contributions": 204,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "sk89q",
+    "contributions": 204,
+    "location": "United States"
+  },
+  {
+    "username": "kvz",
+    "contributions": 204,
+    "location": "Amsterdam, The Netherlands"
+  },
+  {
+    "username": "shanselman",
+    "contributions": 203,
+    "location": "Unknown"
+  },
+  {
+    "username": "malsup",
+    "contributions": 203,
+    "location": "@malsup on twitter"
+  },
+  {
+    "username": "rlerdorf",
+    "contributions": 202,
+    "location": "Probably on a plane"
+  },
+  {
+    "username": "chneukirchen",
+    "contributions": 201,
+    "location": "Munich, Germany"
+  },
+  {
+    "username": "hmarr",
+    "contributions": 201,
+    "location": "London, UK"
+  },
+  {
+    "username": "luis-almeida",
+    "contributions": 200,
+    "location": "Copenhagen, Denmark"
+  },
+  {
+    "username": "uliwitness",
+    "contributions": 199,
+    "location": "Likely indoors."
+  },
+  {
+    "username": "avdi",
+    "contributions": 198,
+    "location": "Pennsylvania, USA"
+  },
+  {
+    "username": "shichuan",
+    "contributions": 197,
+    "location": "Unknown"
+  },
+  {
+    "username": "wintercn",
+    "contributions": 196,
+    "location": "China"
+  },
+  {
+    "username": "jrbasso",
+    "contributions": 195,
+    "location": "Aventura, FL, USA"
+  },
+  {
+    "username": "rtomayko",
+    "contributions": 192,
+    "location": "San Francisco"
+  },
+  {
+    "username": "maddox",
+    "contributions": 191,
+    "location": "Richmond, Va"
+  },
+  {
+    "username": "yappo",
+    "contributions": 190,
+    "location": "Unknown"
+  },
+  {
+    "username": "0xced",
+    "contributions": 190,
+    "location": "Geneva, Switzerland"
+  },
+  {
+    "username": "Hexxeh",
+    "contributions": 190,
+    "location": "United Kingdom"
+  },
+  {
+    "username": "justinabrahms",
+    "contributions": 189,
+    "location": "Portland, OR"
+  },
+  {
+    "username": "tommcfarlin",
+    "contributions": 189,
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "username": "codepo8",
+    "contributions": 187,
+    "location": "London, England"
+  },
+  {
+    "username": "MartianZ",
+    "contributions": 186,
+    "location": "China"
+  },
+  {
+    "username": "TiuTalk",
+    "contributions": 185,
+    "location": "Rio de Janeiro"
+  },
+  {
+    "username": "spf13",
+    "contributions": 184,
+    "location": "NYC"
+  },
+  {
+    "username": "jayli",
+    "contributions": 184,
+    "location": "Beijing China"
+  },
+  {
+    "username": "glassesfactory",
+    "contributions": 183,
+    "location": "tokyo,setagaya"
+  },
+  {
+    "username": "soulwire",
+    "contributions": 182,
+    "location": "New York City"
+  },
+  {
+    "username": "raggi",
+    "contributions": 182,
+    "location": "Bermuda"
+  },
+  {
+    "username": "nathansmith",
+    "contributions": 181,
+    "location": "Dallas, TX"
+  },
+  {
+    "username": "macournoyer",
+    "contributions": 181,
+    "location": "Montreal, QC, Canada"
+  },
+  {
+    "username": "tomdale",
+    "contributions": 180,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "psychs",
+    "contributions": 180,
+    "location": "Santa Clara, CA"
+  },
+  {
+    "username": "quirkey",
+    "contributions": 178,
+    "location": "Bay Area, CA &lt;-&gt; Brooklyn, NY"
+  },
+  {
+    "username": "bfirsh",
+    "contributions": 177,
+    "location": "London, UK"
+  },
+  {
+    "username": "foca",
+    "contributions": 175,
+    "location": "Montevideo, Uruguay"
+  },
+  {
+    "username": "rcrowley",
+    "contributions": 175,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "borismus",
+    "contributions": 174,
+    "location": "San Francisco / Vancouver"
+  },
+  {
+    "username": "predominant",
+    "contributions": 174,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "bmizerany",
+    "contributions": 173,
+    "location": "http://blakemizerany.com"
+  },
+  {
+    "username": "yuroyoro",
+    "contributions": 173,
+    "location": "Tokyo"
+  },
+  {
+    "username": "suissa",
+    "contributions": 173,
+    "location": "São Paulo - SP"
+  },
+  {
+    "username": "jgilfelt",
+    "contributions": 172,
+    "location": "Berkshire, United Kingdom"
+  },
+  {
+    "username": "chromatic",
+    "contributions": 171,
+    "location": "Unknown"
+  },
+  {
+    "username": "ernie",
+    "contributions": 171,
+    "location": "Louisville, Kentucky"
+  },
+  {
+    "username": "aterrien",
+    "contributions": 169,
+    "location": "Rennes, Fr"
+  },
+  {
+    "username": "toji",
+    "contributions": 168,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "padraic",
+    "contributions": 167,
+    "location": "Ireland"
+  },
+  {
+    "username": "funkatron",
+    "contributions": 166,
+    "location": "Lafayette, Indiana USA"
+  },
+  {
+    "username": "evanmiller",
+    "contributions": 166,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "leevigraham",
+    "contributions": 165,
+    "location": "Newcastle, Australia"
+  },
+  {
+    "username": "benschwarz",
+    "contributions": 164,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "TimToady",
+    "contributions": 163,
+    "location": "Unknown"
+  },
+  {
+    "username": "chloerei",
+    "contributions": 163,
+    "location": "china, beijing"
+  },
+  {
+    "username": "mystcolor",
+    "contributions": 163,
+    "location": "Hong Kong"
+  },
+  {
+    "username": "swannodette",
+    "contributions": 162,
+    "location": "New York"
+  },
+  {
+    "username": "edavis10",
+    "contributions": 162,
+    "location": "Portland, OR USA"
+  },
+  {
+    "username": "mfields",
+    "contributions": 162,
+    "location": "Portland, Oregon, USA"
+  },
+  {
+    "username": "jberkel",
+    "contributions": 162,
+    "location": "Berlin"
+  },
+  {
+    "username": "ryanseddon",
+    "contributions": 161,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "ihower",
+    "contributions": 160,
+    "location": "Hsinchu, Taiwan"
+  },
+  {
+    "username": "gilesbowkett",
+    "contributions": 160,
+    "location": "Los Angeles"
+  },
+  {
+    "username": "twada",
+    "contributions": 160,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "hukl",
+    "contributions": 159,
+    "location": "Berlin"
+  },
+  {
+    "username": "ccgus",
+    "contributions": 157,
+    "location": "Everett, WA"
+  },
+  {
+    "username": "pamelafox",
+    "contributions": 156,
+    "location": "Unknown"
+  },
+  {
+    "username": "sr",
+    "contributions": 155,
+    "location": "Brussels, Belgium"
+  },
+  {
+    "username": "echen",
+    "contributions": 154,
+    "location": "San Francisco"
+  },
+  {
+    "username": "fabiokung",
+    "contributions": 153,
+    "location": "San Francisco, USA"
+  },
+  {
+    "username": "DHowett",
+    "contributions": 153,
+    "location": "Berkeley, CA"
+  },
+  {
+    "username": "joshbuddy",
+    "contributions": 152,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "cmilfont",
+    "contributions": 151,
+    "location": "Fortaleza, CE, Brazil, BR"
+  },
+  {
+    "username": "carllerche",
+    "contributions": 150,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "chovy",
+    "contributions": 149,
+    "location": "Capitola, CA"
+  },
+  {
+    "username": "peteralfonso",
+    "contributions": 147,
+    "location": "Florida, United States"
+  },
+  {
+    "username": "BorisMoore",
+    "contributions": 146,
+    "location": "Redmond WA"
+  },
+  {
+    "username": "jbarnette",
+    "contributions": 145,
+    "location": "SF / NOLA"
+  },
+  {
+    "username": "philogb",
+    "contributions": 144,
+    "location": "Palo Alto, California"
+  },
+  {
+    "username": "taitems",
+    "contributions": 142,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "snytkine",
+    "contributions": 142,
+    "location": "Pennsylvania, US"
+  },
+  {
+    "username": "TTimo",
+    "contributions": 141,
+    "location": "Dallas, TX, USA"
+  },
+  {
+    "username": "kwhinnery",
+    "contributions": 139,
+    "location": "Saint Paul / Minneapolis"
+  },
+  {
+    "username": "raganwald",
+    "contributions": 138,
+    "location": "Toronto, Canada"
+  },
+  {
+    "username": "brynary",
+    "contributions": 138,
+    "location": "New York City"
+  },
+  {
+    "username": "homakov",
+    "contributions": 137,
+    "location": "Follow there twitter.com/homakov"
+  },
+  {
+    "username": "Dinnerbone",
+    "contributions": 135,
+    "location": "Stockholm, Sweden"
+  },
+  {
+    "username": "ccoenraets",
+    "contributions": 134,
+    "location": "Boston"
+  },
+  {
+    "username": "johnlindquist",
+    "contributions": 134,
+    "location": "Unknown"
+  },
+  {
+    "username": "guilhermesilveira",
+    "contributions": 133,
+    "location": "São Paulo, Brasil"
+  },
+  {
+    "username": "ciaranj",
+    "contributions": 133,
+    "location": "Manchester, Uk"
+  },
+  {
+    "username": "mitchellsimoens",
+    "contributions": 128,
+    "location": "Saint Louis Area, Missouri USA"
+  },
+  {
+    "username": "douglascrockford",
+    "contributions": 127,
+    "location": "Unknown"
+  },
+  {
+    "username": "zedshaw",
+    "contributions": 127,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "evanw",
+    "contributions": 127,
+    "location": "Unknown"
+  },
+  {
+    "username": "mojodna",
+    "contributions": 125,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "nzakas",
+    "contributions": 124,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "loiane",
+    "contributions": 123,
+    "location": "Sao Paulo, Brazil"
+  },
+  {
+    "username": "shadowhand",
+    "contributions": 122,
+    "location": "MN, USA"
+  },
+  {
+    "username": "dandoescode",
+    "contributions": 122,
+    "location": "New York, NY"
+  },
+  {
+    "username": "metajack",
+    "contributions": 122,
+    "location": "Albuquerque, NM  USA"
+  },
+  {
+    "username": "hotchpotch",
+    "contributions": 120,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "gabriel",
+    "contributions": 120,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "jhaynie",
+    "contributions": 118,
+    "location": "Mountain View, CA"
+  },
+  {
+    "username": "toolmantim",
+    "contributions": 118,
+    "location": "Melbourne, Australia (was Berlin, Germany)"
+  },
+  {
+    "username": "levey",
+    "contributions": 116,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "smtlaissezfaire",
+    "contributions": 115,
+    "location": "San Francisco"
+  },
+  {
+    "username": "mattb",
+    "contributions": 114,
+    "location": "London"
+  },
+  {
+    "username": "mojombo",
+    "contributions": 113,
+    "location": "San Francisco"
+  },
+  {
+    "username": "defunkt",
+    "contributions": 111,
+    "location": "San Francisco"
+  },
+  {
+    "username": "daneden",
+    "contributions": 111,
+    "location": "Manchester, UK"
+  },
+  {
+    "username": "justinfrench",
+    "contributions": 111,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "ptarjan",
+    "contributions": 111,
+    "location": "San Jose, CA, USA"
+  },
+  {
+    "username": "ChainsDD",
+    "contributions": 108,
+    "location": "Norfolk, UK"
+  },
+  {
+    "username": "karlisson",
+    "contributions": 108,
+    "location": "São Paulo/SP - Brazil"
+  },
+  {
+    "username": "chaoslawful",
+    "contributions": 106,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "tobi",
+    "contributions": 105,
+    "location": "Ottawa, Canada"
+  },
+  {
+    "username": "apenwarr",
+    "contributions": 105,
+    "location": "Canada.  Sometimes."
+  },
+  {
+    "username": "dcneiner",
+    "contributions": 105,
+    "location": "Cumberland, IA"
+  },
+  {
+    "username": "kneath",
+    "contributions": 104,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "stuarthalloway",
+    "contributions": 104,
+    "location": "Chapel Hill, NC"
+  },
+  {
+    "username": "Ovid",
+    "contributions": 104,
+    "location": "Paris, France"
+  },
+  {
+    "username": "kishikawakatsumi",
+    "contributions": 103,
+    "location": "Tokyo"
+  },
+  {
+    "username": "yusukebe",
+    "contributions": 101,
+    "location": "Kanagawa, Japan"
+  },
+  {
+    "username": "BenWard",
+    "contributions": 101,
+    "location": "San Francisco"
+  },
+  {
+    "username": "amix",
+    "contributions": 100,
+    "location": "The World"
+  },
+  {
+    "username": "robey",
+    "contributions": 99,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "tylerhall",
+    "contributions": 99,
+    "location": "Nashville, TN"
+  },
+  {
+    "username": "jm",
+    "contributions": 95,
+    "location": "Orlando, FL"
+  },
+  {
+    "username": "marcusramberg",
+    "contributions": 95,
+    "location": "Oslo, Norway"
+  },
+  {
+    "username": "dpp",
+    "contributions": 92,
+    "location": "San Francisco"
+  },
+  {
+    "username": "amazingsyco",
+    "contributions": 91,
+    "location": "Unknown"
+  },
+  {
+    "username": "jamesgpearce",
+    "contributions": 91,
+    "location": "Unknown"
+  },
+  {
+    "username": "Arachnid",
+    "contributions": 90,
+    "location": "London, England"
+  },
+  {
+    "username": "johnsheehan",
+    "contributions": 90,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "icodeforlove",
+    "contributions": 89,
+    "location": "los angeles"
+  },
+  {
+    "username": "pauldix",
+    "contributions": 89,
+    "location": "New York, NY"
+  },
+  {
+    "username": "tapajos",
+    "contributions": 87,
+    "location": "Unknown"
+  },
+  {
+    "username": "ngerakines",
+    "contributions": 87,
+    "location": "Irvine, CA"
+  },
+  {
+    "username": "zzdhidden",
+    "contributions": 86,
+    "location": "China"
+  },
+  {
+    "username": "johannilsson",
+    "contributions": 85,
+    "location": "Stockholm, Sweden"
+  },
+  {
+    "username": "chriscoyier",
+    "contributions": 84,
+    "location": "Palo Alto, CA"
+  },
+  {
+    "username": "petewarden",
+    "contributions": 84,
+    "location": "Boulder, CO"
+  },
+  {
+    "username": "jackmoore",
+    "contributions": 83,
+    "location": "Atlanta, Ga"
+  },
+  {
+    "username": "joelhooks",
+    "contributions": 83,
+    "location": "Dallas, TX"
+  },
+  {
+    "username": "migurski",
+    "contributions": 83,
+    "location": "Unknown"
+  },
+  {
+    "username": "stig",
+    "contributions": 83,
+    "location": "London"
+  },
+  {
+    "username": "dann",
+    "contributions": 83,
+    "location": "Japan"
+  },
+  {
+    "username": "stevej",
+    "contributions": 81,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "lzyy",
+    "contributions": 81,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "subtleGradient",
+    "contributions": 76,
+    "location": "Fremont, CA"
+  },
+  {
+    "username": "Grafikart",
+    "contributions": 76,
+    "location": "Unknown"
+  },
+  {
+    "username": "nekokak",
+    "contributions": 76,
+    "location": "Kanagawa Japan"
+  },
+  {
+    "username": "gregoryyoung",
+    "contributions": 75,
+    "location": "Unknown"
+  },
+  {
+    "username": "topfunky",
+    "contributions": 74,
+    "location": "Seattle, USA"
+  },
+  {
+    "username": "claus",
+    "contributions": 74,
+    "location": "São Paulo, Brazil"
+  },
+  {
+    "username": "cameronmcefee",
+    "contributions": 73,
+    "location": "San Francisco"
+  },
+  {
+    "username": "cgrand",
+    "contributions": 72,
+    "location": "Saint-Étienne, France"
+  },
+  {
+    "username": "adamwiggins",
+    "contributions": 71,
+    "location": "San Francisco"
+  },
+  {
+    "username": "richhickey",
+    "contributions": 70,
+    "location": "NY"
+  },
+  {
+    "username": "hooopo",
+    "contributions": 69,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "eddiemachado",
+    "contributions": 68,
+    "location": "Venice Beach, CA"
+  },
+  {
+    "username": "elliottcable",
+    "contributions": 68,
+    "location": "Anchorage, Alaska"
+  },
+  {
+    "username": "dustinwhittle",
+    "contributions": 68,
+    "location": "San Francisco, California, USA"
+  },
+  {
+    "username": "drewconway",
+    "contributions": 67,
+    "location": "New York, NY"
+  },
+  {
+    "username": "indragiek",
+    "contributions": 67,
+    "location": "Edmonton, AB, Canada"
+  },
+  {
+    "username": "cubiq",
+    "contributions": 66,
+    "location": "Florence, Italy"
+  },
+  {
+    "username": "joestump",
+    "contributions": 66,
+    "location": "Boulder, CO"
+  },
+  {
+    "username": "jrockway",
+    "contributions": 66,
+    "location": "New York, New York"
+  },
+  {
+    "username": "garann",
+    "contributions": 65,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "carlosbrando",
+    "contributions": 64,
+    "location": "Brazil"
+  },
+  {
+    "username": "mikeash",
+    "contributions": 63,
+    "location": "Unknown"
+  },
+  {
+    "username": "jnewland",
+    "contributions": 63,
+    "location": "Savannah, GA"
+  },
+  {
+    "username": "lrz",
+    "contributions": 62,
+    "location": "Unknown"
+  },
+  {
+    "username": "ry",
+    "contributions": 60,
+    "location": "Unknown"
+  },
+  {
+    "username": "tolmasky",
+    "contributions": 60,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "andymatuschak",
+    "contributions": 59,
+    "location": "Unknown"
+  },
+  {
+    "username": "tholman",
+    "contributions": 59,
+    "location": "Australian... living in New York"
+  },
+  {
+    "username": "djspiewak",
+    "contributions": 57,
+    "location": "Wisconsin, USA"
+  },
+  {
+    "username": "al3x",
+    "contributions": 56,
+    "location": "Unknown"
+  },
+  {
+    "username": "naoya",
+    "contributions": 56,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "jbogard",
+    "contributions": 56,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "olabini",
+    "contributions": 55,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "aral",
+    "contributions": 55,
+    "location": "Brighton, UK"
+  },
+  {
+    "username": "ikeay",
+    "contributions": 54,
+    "location": "Unknown"
+  },
+  {
+    "username": "devinross",
+    "contributions": 53,
+    "location": "New York"
+  },
+  {
+    "username": "JeffreyWay",
+    "contributions": 52,
+    "location": "Chattanooga, TN"
+  },
+  {
+    "username": "ericflo",
+    "contributions": 52,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "iosdeveloper",
+    "contributions": 50,
+    "location": "Unknown"
+  },
+  {
+    "username": "nkallen",
+    "contributions": 49,
+    "location": "San Francisco"
+  },
+  {
+    "username": "pcalcado",
+    "contributions": 49,
+    "location": "Berlin"
+  },
+  {
+    "username": "mranney",
+    "contributions": 49,
+    "location": "Oakland, CA"
+  },
+  {
+    "username": "cliffmoon",
+    "contributions": 49,
+    "location": "San Francisco"
+  },
+  {
+    "username": "jbalogh",
+    "contributions": 49,
+    "location": "San Francisco"
+  },
+  {
+    "username": "StylingAndroid",
+    "contributions": 48,
+    "location": "Hertfordshire, UK"
+  },
+  {
+    "username": "robin",
+    "contributions": 48,
+    "location": "Beijing, China"
+  },
+  {
+    "username": "stefanesser",
+    "contributions": 48,
+    "location": "Unknown"
+  },
+  {
+    "username": "yugui",
+    "contributions": 45,
+    "location": "Saitama, Japan"
+  },
+  {
+    "username": "Gregg",
+    "contributions": 44,
+    "location": "Orlando, FL"
+  },
+  {
+    "username": "tlrobinson",
+    "contributions": 43,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "RJ",
+    "contributions": 43,
+    "location": "London"
+  },
+  {
+    "username": "atduskgreg",
+    "contributions": 43,
+    "location": "New York, NY"
+  },
+  {
+    "username": "DmitryBaranovskiy",
+    "contributions": 42,
+    "location": "Sydney, Australia"
+  },
+  {
+    "username": "stevedekorte",
+    "contributions": 42,
+    "location": "San Francisco"
+  },
+  {
+    "username": "davatron5000",
+    "contributions": 41,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "webcoyote",
+    "contributions": 41,
+    "location": "Bellevue, WA"
+  },
+  {
+    "username": "auser",
+    "contributions": 41,
+    "location": "Palo Alto"
+  },
+  {
+    "username": "quicklisp",
+    "contributions": 40,
+    "location": "Portland, Maine"
+  },
+  {
+    "username": "yuiseki",
+    "contributions": 40,
+    "location": "Akihabara, Tokyo, Japan."
+  },
+  {
+    "username": "akitaonrails",
+    "contributions": 39,
+    "location": "Brazil"
+  },
+  {
+    "username": "timburks",
+    "contributions": 39,
+    "location": "Palo Alto, CA"
+  },
+  {
+    "username": "kraih",
+    "contributions": 39,
+    "location": "Unknown"
+  },
+  {
+    "username": "hotoo",
+    "contributions": 39,
+    "location": "Hangzhou"
+  },
+  {
+    "username": "joshsusser",
+    "contributions": 39,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "yinwang0",
+    "contributions": 38,
+    "location": "Unknown"
+  },
+  {
+    "username": "livid",
+    "contributions": 37,
+    "location": "Shanghai, China"
+  },
+  {
+    "username": "cv",
+    "contributions": 37,
+    "location": "Porto Alegre, Brazil"
+  },
+  {
+    "username": "akosma",
+    "contributions": 37,
+    "location": "Oron-la-Ville, Switzerland"
+  },
+  {
+    "username": "angus-c",
+    "contributions": 37,
+    "location": "San Francisco"
+  },
+  {
+    "username": "kylebragger",
+    "contributions": 36,
+    "location": "SF"
+  },
+  {
+    "username": "hagenburger",
+    "contributions": 36,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "worrydream",
+    "contributions": 35,
+    "location": "Unknown"
+  },
+  {
+    "username": "samsoir",
+    "contributions": 35,
+    "location": "Chicago, IL"
+  },
+  {
+    "username": "hmason",
+    "contributions": 34,
+    "location": "New York, NY"
+  },
+  {
+    "username": "saurik",
+    "contributions": 34,
+    "location": "Santa Barbara, CA"
+  },
+  {
+    "username": "brandonkelly",
+    "contributions": 34,
+    "location": "California"
+  },
+  {
+    "username": "vim-scripts",
+    "contributions": 33,
+    "location": "Unknown"
+  },
+  {
+    "username": "robconery",
+    "contributions": 32,
+    "location": "Hanalei, HI"
+  },
+  {
+    "username": "nrrrdcore",
+    "contributions": 32,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "davedelong",
+    "contributions": 31,
+    "location": "Santa Clara, CA"
+  },
+  {
+    "username": "jonikorpi",
+    "contributions": 31,
+    "location": "Finland"
+  },
+  {
+    "username": "andreiz",
+    "contributions": 31,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "marcoarment",
+    "contributions": 30,
+    "location": "Unknown"
+  },
+  {
+    "username": "hollance",
+    "contributions": 29,
+    "location": "Breda, Netherlands"
+  },
+  {
+    "username": "voloko",
+    "contributions": 29,
+    "location": "Mountain View"
+  },
+  {
+    "username": "erica",
+    "contributions": 28,
+    "location": "Denver, CO"
+  },
+  {
+    "username": "unclebob",
+    "contributions": 27,
+    "location": "Gurnee, IL"
+  },
+  {
+    "username": "orderedlist",
+    "contributions": 27,
+    "location": "South Bend, IN, USA"
+  },
+  {
+    "username": "hoisie",
+    "contributions": 27,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "r00k",
+    "contributions": 26,
+    "location": "Boston, MA"
+  },
+  {
+    "username": "NZKoz",
+    "contributions": 25,
+    "location": "Wellington, New Zealand"
+  },
+  {
+    "username": "joearms",
+    "contributions": 24,
+    "location": "stockhom sweden"
+  },
+  {
+    "username": "hassox",
+    "contributions": 24,
+    "location": "Australia"
+  },
+  {
+    "username": "peterc",
+    "contributions": 23,
+    "location": "Cambridge, UK"
+  },
+  {
+    "username": "copumpkin",
+    "contributions": 23,
+    "location": "Boston"
+  },
+  {
+    "username": "cvander",
+    "contributions": 22,
+    "location": "Santiago, Chile"
+  },
+  {
+    "username": "brandonaaron",
+    "contributions": 22,
+    "location": "Texas"
+  },
+  {
+    "username": "guilhermechapiewski",
+    "contributions": 22,
+    "location": "Cupertino, California, USA"
+  },
+  {
+    "username": "KirinDave",
+    "contributions": 21,
+    "location": "SF,CA"
+  },
+  {
+    "username": "stubbornella",
+    "contributions": 20,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "grpaul",
+    "contributions": 19,
+    "location": "San Francisco"
+  },
+  {
+    "username": "amachang",
+    "contributions": 19,
+    "location": "Tokyo, Japan"
+  },
+  {
+    "username": "jperras",
+    "contributions": 19,
+    "location": "Toronto, Canada"
+  },
+  {
+    "username": "nathanborror",
+    "contributions": 18,
+    "location": "Palo Alto, California"
+  },
+  {
+    "username": "jamis",
+    "contributions": 17,
+    "location": "Caldwell, Idaho, USA"
+  },
+  {
+    "username": "comex",
+    "contributions": 17,
+    "location": "Unknown"
+  },
+  {
+    "username": "destroytoday",
+    "contributions": 17,
+    "location": "Brooklyn"
+  },
+  {
+    "username": "nakajima",
+    "contributions": 16,
+    "location": "New York, NY"
+  },
+  {
+    "username": "posixninja",
+    "contributions": 16,
+    "location": "Atlanta, GA"
+  },
+  {
+    "username": "AlanQuatermain",
+    "contributions": 15,
+    "location": "Toronto, ON"
+  },
+  {
+    "username": "miksago",
+    "contributions": 15,
+    "location": "London, UK"
+  },
+  {
+    "username": "obie",
+    "contributions": 14,
+    "location": "Atlanta, GA"
+  },
+  {
+    "username": "bcherry",
+    "contributions": 14,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "lifo",
+    "contributions": 12,
+    "location": "London"
+  },
+  {
+    "username": "adamstac",
+    "contributions": 12,
+    "location": "Houston, TX"
+  },
+  {
+    "username": "ice799",
+    "contributions": 12,
+    "location": "san francisco, ca"
+  },
+  {
+    "username": "phiggins42",
+    "contributions": 12,
+    "location": "Omnipresent"
+  },
+  {
+    "username": "mattgemmell",
+    "contributions": 11,
+    "location": "Edinburgh, Scotland (UK)"
+  },
+  {
+    "username": "flight404",
+    "contributions": 11,
+    "location": "San Francisco"
+  },
+  {
+    "username": "neave",
+    "contributions": 11,
+    "location": "London"
+  },
+  {
+    "username": "omz",
+    "contributions": 10,
+    "location": "Berlin, Germany"
+  },
+  {
+    "username": "probablycorey",
+    "contributions": 10,
+    "location": "San Francisco"
+  },
+  {
+    "username": "nodester",
+    "contributions": 9,
+    "location": "Phoenix, Arizona"
+  },
+  {
+    "username": "jlamarche",
+    "contributions": 9,
+    "location": "Unknown"
+  },
+  {
+    "username": "robhawkes",
+    "contributions": 9,
+    "location": "Bournemouth, UK"
+  },
+  {
+    "username": "jmechner",
+    "contributions": 8,
+    "location": "Unknown"
+  },
+  {
+    "username": "nf",
+    "contributions": 8,
+    "location": "Sydney"
+  },
+  {
+    "username": "AnderWeb",
+    "contributions": 8,
+    "location": "Unknown"
+  },
+  {
+    "username": "adactio",
+    "contributions": 8,
+    "location": "Brighton, UK"
+  },
+  {
+    "username": "danwrong",
+    "contributions": 8,
+    "location": "San Francisco"
+  },
+  {
+    "username": "csjaba",
+    "contributions": 8,
+    "location": "chennai,tamil nadu,india"
+  },
+  {
+    "username": "joericioppo",
+    "contributions": 8,
+    "location": "Unknown"
+  },
+  {
+    "username": "simplebits",
+    "contributions": 8,
+    "location": "Unknown"
+  },
+  {
+    "username": "leah",
+    "contributions": 7,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "simonw",
+    "contributions": 7,
+    "location": "London"
+  },
+  {
+    "username": "oschina",
+    "contributions": 7,
+    "location": "SZ China"
+  },
+  {
+    "username": "viniciusteles",
+    "contributions": 7,
+    "location": "Rio de Janeiro, Brazil"
+  },
+  {
+    "username": "atebits",
+    "contributions": 7,
+    "location": "Unknown"
+  },
+  {
+    "username": "mala",
+    "contributions": 7,
+    "location": "japan"
+  },
+  {
+    "username": "haqu",
+    "contributions": 7,
+    "location": "Unknown"
+  },
+  {
+    "username": "pod2g",
+    "contributions": 7,
+    "location": "Unknown"
+  },
+  {
+    "username": "gskinner",
+    "contributions": 6,
+    "location": "Unknown"
+  },
+  {
+    "username": "cyrilmottier",
+    "contributions": 6,
+    "location": "France"
+  },
+  {
+    "username": "BrendanEich",
+    "contributions": 6,
+    "location": "Unknown"
+  },
+  {
+    "username": "mtodd",
+    "contributions": 6,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "montylounge",
+    "contributions": 6,
+    "location": "NJ/NYC"
+  },
+  {
+    "username": "kejun",
+    "contributions": 5,
+    "location": "beijing"
+  },
+  {
+    "username": "otsune",
+    "contributions": 5,
+    "location": "Tokyo"
+  },
+  {
+    "username": "blaine",
+    "contributions": 5,
+    "location": "London, England"
+  },
+  {
+    "username": "marcel",
+    "contributions": 5,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "planetbeing",
+    "contributions": 4,
+    "location": "Unknown"
+  },
+  {
+    "username": "hcilab",
+    "contributions": 4,
+    "location": "Unknown"
+  },
+  {
+    "username": "westbaer",
+    "contributions": 4,
+    "location": "Vienna, Austria"
+  },
+  {
+    "username": "jasonmorrissey",
+    "contributions": 4,
+    "location": "Melbourne, Australia"
+  },
+  {
+    "username": "robertpenner",
+    "contributions": 3,
+    "location": "Canada"
+  },
+  {
+    "username": "dan",
+    "contributions": 3,
+    "location": "Austin, Texas"
+  },
+  {
+    "username": "freddier",
+    "contributions": 3,
+    "location": "Unknown"
+  },
+  {
+    "username": "skypeopensource",
+    "contributions": 3,
+    "location": "Unknown"
+  },
+  {
+    "username": "johnezang",
+    "contributions": 3,
+    "location": "Unknown"
+  },
+  {
+    "username": "raspberrypi",
+    "contributions": 2,
+    "location": "Unknown"
+  },
+  {
+    "username": "AdamAtomic",
+    "contributions": 2,
+    "location": "Austin, TX"
+  },
+  {
+    "username": "digdog",
+    "contributions": 2,
+    "location": "Unknown"
+  },
+  {
+    "username": "romainguy",
+    "contributions": 2,
+    "location": "Unknown"
+  },
+  {
+    "username": "cocos2d",
+    "contributions": 1,
+    "location": "Unknown"
+  },
+  {
+    "username": "openframeworks",
+    "contributions": 1,
+    "location": "Unknown"
+  },
+  {
+    "username": "finiteloop",
+    "contributions": 1,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "geohot",
+    "contributions": 1,
+    "location": "Glen Rock, NJ"
+  },
+  {
+    "username": "octocat",
+    "contributions": 1,
+    "location": "San Francisco"
+  },
+  {
+    "username": "nothingmuch",
+    "contributions": 1,
+    "location": "The Intertubes"
+  },
+  {
+    "username": "pageman",
+    "contributions": 1,
+    "location": "Manila, Philippines"
+  },
+  {
+    "username": "boctor",
+    "contributions": 1,
+    "location": "San Francisco/Seattle"
+  },
+  {
+    "username": "practicalarduino",
+    "contributions": 1,
+    "location": "Australia"
+  },
+  {
+    "username": "sonyxperiadev",
+    "contributions": 1,
+    "location": "Sweden"
+  },
+  {
+    "username": "anutron",
+    "contributions": 1,
+    "location": "San Francisco, CA, USA"
+  },
+  {
+    "username": "android",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "jquery",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "pjhyett",
+    "contributions": 0,
+    "location": "San Francisco"
+  },
+  {
+    "username": "textmate",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "whymirror",
+    "contributions": 0,
+    "location": "site:github.com &quot;fork of why/&quot;"
+  },
+  {
+    "username": "KentBeck",
+    "contributions": 0,
+    "location": "Southern Oregon, USA"
+  },
+  {
+    "username": "cakephp",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "CakeDC",
+    "contributions": 0,
+    "location": "Las Vegas, Nevada"
+  },
+  {
+    "username": "pivotal",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "sinatra",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "ezmobius",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "digg",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "goldmansachs",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "php",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "HandBrake",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "Modernizr",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "cappuccino",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "erlang",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "superfeedr",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "kohana",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "railstutorial",
+    "contributions": 0,
+    "location": "Pasadena, CA"
+  },
+  {
+    "username": "kissyteam",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "pokeb",
+    "contributions": 0,
+    "location": "London, UK"
+  },
+  {
+    "username": "edspencer",
+    "contributions": 0,
+    "location": "Palo Alto, CA"
+  },
+  {
+    "username": "merlinmann",
+    "contributions": 0,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "chad",
+    "contributions": 0,
+    "location": "Washington, DC"
+  },
+  {
+    "username": "symfony",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "elliothaughin",
+    "contributions": 0,
+    "location": "Barrow-in-Furness"
+  },
+  {
+    "username": "mmalone",
+    "contributions": 0,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "equus12",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "dankogai",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "omnigroup",
+    "contributions": 0,
+    "location": "Seattle WA"
+  },
+  {
+    "username": "enormego",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "jquerytools",
+    "contributions": 0,
+    "location": "Helsinki, Finland"
+  },
+  {
+    "username": "django",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "fuel-packages",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "cinder",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "kevinweil",
+    "contributions": 0,
+    "location": "Portola Valley, CA"
+  },
+  {
+    "username": "bradford",
+    "contributions": 0,
+    "location": "San Francisco"
+  },
+  {
+    "username": "romannurik",
+    "contributions": 0,
+    "location": "New York, NY"
+  },
+  {
+    "username": "malarkey",
+    "contributions": 0,
+    "location": "UK"
+  },
+  {
+    "username": "seattlerb",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "chrismessina",
+    "contributions": 0,
+    "location": "San Francisco"
+  },
+  {
+    "username": "mirrors",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "OpenNI",
+    "contributions": 0,
+    "location": "Israel"
+  },
+  {
+    "username": "datawrangling",
+    "contributions": 0,
+    "location": "San Francisco, CA"
+  },
+  {
+    "username": "franzinc",
+    "contributions": 0,
+    "location": "Oakland, CA"
+  },
+  {
+    "username": "sproutit",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "rhomobile",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "mcurry",
+    "contributions": 0,
+    "location": "New Jersey"
+  },
+  {
+    "username": "simplegeo",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "diveintomark",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "BaiduFE",
+    "contributions": 0,
+    "location": "Beijing"
+  },
+  {
+    "username": "radiant",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "gruber",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "photo",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "webpy",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "rednaxelafx",
+    "contributions": 0,
+    "location": "Hangzhou, China"
+  },
+  {
+    "username": "APE-Project",
+    "contributions": 0,
+    "location": "Montpellier, France"
+  },
+  {
+    "username": "MuscleNerd",
+    "contributions": 0,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "username": "hillegass",
+    "contributions": 0,
+    "location": "Altanta, GA"
+  },
+  {
+    "username": "duckduckgo",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "theflashbum",
+    "contributions": 0,
+    "location": "Brooklyn, New York"
+  },
+  {
+    "username": "wdas",
+    "contributions": 0,
+    "location": "Unknown"
+  },
+  {
+    "username": "mangos",
+    "contributions": 0,
+    "location": "Unknown"
+  }
+]
