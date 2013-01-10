@@ -17,22 +17,17 @@ function stats2markdown(datafile, mdfile, title) {
   out += '<th scope="col">Contributions</th>'
   out += '<th scope="col">Language</th>'
   out += '<th scope="col">Location</th>'
-  out += '<th scope="col">Data</th>'
   out += '<th scope="col">Gravatar</th>'
   out += '</thead><tbody>\n'
 
   stats.forEach(function(stat, index) {
-    var gravatar = stat.gravatar
-    delete stat.gravatar
-
     out += '<tr>'
     out += '<th scope="row">#' + (index + 1) + '</th>'
-    out += '<td><a href="https://github.com/' + stat.username + '">' + stat.username + '</a></td>'
+    out += '<td><a href="https://github.com/' + stat.username + '">' + stat.username + '</a>( ' + stat.aka + ' )</td>'
     out += '<td>' + stat.contributions + '</td>'
     out += '<td>' + stat.language + '</td>'
     out += '<td>' + stat.location + '</td>'
-    out += '<td><pre>' + JSON.stringify(stat, null, 2) + '</pre></td>'
-    out += '<td><img width="30" height="30" src="' + gravatar + '"></td>'
+    out += '<td><img width="30" height="30" src="' + stat.gravatar + '"></td>'
     out += '</tr>\n'
   })
 
