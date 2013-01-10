@@ -29,7 +29,7 @@ function stats2markdown(datafile, mdfile, title) {
   out += '<th scope="col">Contributions</th>'
   out += '<th scope="col">Language</th>'
   out += '<th scope="col">Location</th>'
-  out += '<th scope="col"></th>'
+  out += '<th scope="col" width="50"></th>'
   out += '</thead><tbody>\n'
 
   stats.forEach(function(stat, index) {

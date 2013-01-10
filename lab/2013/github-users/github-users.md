@@ -2,7 +2,7 @@
 
 GitHub has released [contributions](https://github.com/blog/1360-introducing-contributions) (summary of Pull Requests, closed issues and commits).
 
-This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 2012 16:54:37 GMT** till **Thu, 10 Jan 2013 16:54:37 GMT**.
+This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 2012 17:05:49 GMT** till **Thu, 10 Jan 2013 17:05:49 GMT**.
 
 To repeat:
 
@@ -13,7 +13,7 @@ Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/li
 
 Thanks to <https://gist.github.com/2657075>
 
-<table cellspacing="0"><thead><th scope="col">#</th><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Language</th><th scope="col">Location</th><th scope="col"></th></thead><tbody>
+<table cellspacing="0"><thead><th scope="col">#</th><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Language</th><th scope="col">Location</th><th scope="col" width="50"></th></thead><tbody>
 <tr><th scope="row">#1</th><td><a href="https://github.com/visionmedia">visionmedia</a> (TJ Holowaychuk) </td><td>7456</td><td>JavaScript</td><td>Victoria, BC, Canada</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/f1e3ab214a976a39cfd713bc93deb10f?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#2</th><td><a href="https://github.com/c9s">c9s</a> (Yo-An Lin) </td><td>6955</td><td>Perl</td><td>Taipei, Taiwan</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/7490b4e3e9cb85a1f7dc0c8ea01a86e5?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#3</th><td><a href="https://github.com/fabpot">fabpot</a> (Fabien Potencier) </td><td>6643</td><td>PHP</td><td>Paris, France</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/f1a2c5905e121d09feba5ad73898ffca?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
