@@ -1,5 +1,6 @@
 
 var util = require('./util')
+var MAX_CONTRIBUTIONS = 20000
 
 sortStats('./github-users-stats.json', 'github-users-sorted-stats.json')
 sortStats('./github-users-stats-china.json', 'github-users-sorted-stats-china.json')
@@ -18,7 +19,7 @@ function sortStats(filename, outfile) {
     cache[contributions].push(stat)
   })
 
-  for (var i = 20000; i >= 0; i--) {
+  for (var i = MAX_CONTRIBUTIONS; i >= 0; i--) {
     if (cache[i]) {
       sortedStats = sortedStats.concat(cache[i])
     }

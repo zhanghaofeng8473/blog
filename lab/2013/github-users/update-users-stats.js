@@ -1,12 +1,14 @@
 
 var util = require('./util')
-var stats = {}
 
-util.getPages(getSearchUrls(99, 'followers%3A%3E0'), parseUsersStats, function() {
+var stats = {}
+var MAX_PAGES = 1
+
+util.getPages(getSearchUrls(MAX_PAGES, 'followers%3A%3E0'), parseUsersStats, function() {
   util.saveStats('github-users-stats.json', stats)
 
   stats = {}
-  util.getPages(getSearchUrls(99, 'location%3Achina'), parseUsersStats, function() {
+  util.getPages(getSearchUrls(MAX_PAGES, 'location%3Achina'), parseUsersStats, function() {
     util.saveStats('github-users-stats-china.json', stats)
   })
 })
@@ -55,4 +57,3 @@ function parseField(regex, html) {
 function parseNum(string) {
   return parseInt(string.replace(/,/g, '')) || 0
 }
-
