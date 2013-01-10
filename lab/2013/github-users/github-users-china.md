@@ -13,7 +13,7 @@ Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/li
 
 Thanks to <https://gist.github.com/2657075>
 
-<table cellspacing="0"><thead><th scope="col">#</th><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Language</th><th scope="col">Location</th><th scope="col"></th></thead><tbody>
+<table cellspacing="0"><thead><th scope="col">#</th><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Language</th><th scope="col" width="80">Location</th><th scope="col"></th></thead><tbody>
 <tr><th scope="row">#1</th><td><a href="https://github.com/yiminghe">yiminghe</a> (yiminghe) </td><td>2961</td><td>JavaScript</td><td>China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/d226fdd4b353d92a66a1ef71539357f8?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#2</th><td><a href="https://github.com/zuroc">zuroc</a> (张沈鹏) </td><td>2836</td><td>JavaScript</td><td>china , beijing</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/ca84230d3a5508316a75ee0fe71324dc?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#3</th><td><a href="https://github.com/lifesinger">lifesinger</a> (lifesinger) </td><td>2711</td><td>JavaScript</td><td>Hangzhou, China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/db33090541526c03c798f82aa0a5dbaa?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
