@@ -2,11 +2,11 @@
 
 GitHub has released [contributions](https://github.com/blog/1360-introducing-contributions) (summary of Pull Requests, closed issues and commits).
 
-This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 113 13:57:13 GMT** till **Thu, 10 Jan 2013 13:57:13 GMT**.
+This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 2012 14:04:07 GMT** till **Thu, 10 Jan 2013 14:04:07 GMT**.
 
 To repeat:
 
-1. Take the first 1000 users in GitHub according to the number of followers.
+1. Take the first 1000 users in GitHub according to the count of followers.
 2. Sort them by number of public contributions.
 
 Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/github-users-sorted-stats.json), [script](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/Makefile)).

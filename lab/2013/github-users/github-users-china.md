@@ -2,11 +2,11 @@
 
 GitHub has released [contributions](https://github.com/blog/1360-introducing-contributions) (summary of Pull Requests, closed issues and commits).
 
-This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 113 13:57:13 GMT** till **Thu, 10 Jan 2013 13:57:13 GMT**.
+This is the count of contributions to public repos at GitHub.com from **Tue, 10 Jan 2012 14:04:07 GMT** till **Thu, 10 Jan 2013 14:04:07 GMT**.
 
 To repeat:
 
-1. Take the first 1000 users in GitHub according to the number of followers.
+1. Take the first 1000 users in GitHub according to the count of followers.
 2. Sort them by number of public contributions.
 
 Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/github-users-sorted-stats-china.json), [script](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/Makefile)).
@@ -14,7 +14,7 @@ Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/li
 Thanks to <https://gist.github.com/2657075>
 
 <table cellspacing="0"><thead><th scope="col">#</th><th scope="col">Username</th><th scope="col">Contributions</th><th scope="col">Language</th><th scope="col">Location</th><th scope="col"></th></thead><tbody>
-<tr><th scope="row">#1</th><td><a href="https://github.com/lifesinger">lifesinger</a> (lifesinger) </td><td>2709</td><td>JavaScript</td><td>Hangzhou, China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/db33090541526c03c798f82aa0a5dbaa?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
+<tr><th scope="row">#1</th><td><a href="https://github.com/lifesinger">lifesinger</a> (lifesinger) </td><td>2710</td><td>JavaScript</td><td>Hangzhou, China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/db33090541526c03c798f82aa0a5dbaa?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#2</th><td><a href="https://github.com/flyerhzm">flyerhzm</a> (Richard Huang) </td><td>1531</td><td>Ruby</td><td>Shanghai, China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/13c60e2a5806406b537daa542d3495da?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#3</th><td><a href="https://github.com/laruence">laruence</a> (Xinchen Hui) </td><td>1160</td><td>C</td><td>China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/888b213b936c90cfb88f0dd7cd76f8db?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>
 <tr><th scope="row">#4</th><td><a href="https://github.com/JacksonTian">JacksonTian</a> (Jackson Tian) </td><td>1158</td><td>JavaScript</td><td>Hangzhou, China</td><td><img width="30" height="30" src="https://secure.gravatar.com/avatar/31b9dfd78b6aa9cefb68129ea21af3bf?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"></td></tr>

@@ -13,11 +13,11 @@ function stats2markdown(datafile, mdfile, title) {
 
   var today = new Date()
   var from = new Date()
-  from.setYear(today.getYear())
+  from.setYear(today.getFullYear() - 1)
   out += 'This is the count of contributions to public repos at GitHub.com from **' + from.toGMTString() + '** till **' + today.toGMTString() + '**.\n\n'
 
   out += 'To repeat:\n\n'
-  out += '1. Take the first 1000 users in GitHub according to the number of followers.\n'
+  out += '1. Take the first 1000 users in GitHub according to the count of followers.\n'
   out += '2. Sort them by number of public contributions.\n\n'
 
   out += 'Made with data mining of GitHub.com ([raw data](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/' + datafile + '), [script](https://github.com/lifesinger/lifesinger.github.com/tree/master/lab/2013/github-users/Makefile)).\n\n'
