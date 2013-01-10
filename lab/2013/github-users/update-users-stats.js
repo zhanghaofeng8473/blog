@@ -2,7 +2,7 @@
 var util = require('./util')
 
 var stats = {}
-var MAX_PAGES = 1
+var MAX_PAGES = 99
 
 util.getPages(getSearchUrls(MAX_PAGES, 'followers%3A%3E0'), parseUsersStats, function() {
   util.saveStats('github-users-stats.json', stats)
