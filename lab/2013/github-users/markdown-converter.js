@@ -1,4 +1,3 @@
-
 var fs = require('fs')
 
 stats2markdown('github-users-sorted-stats.json', 'github-users.md', 'Most active GitHub users')
@@ -39,7 +38,7 @@ function stats2markdown(datafile, mdfile, title) {
     out += '<td>' + stat.contributions + '</td>'
     out += '<td>' + stat.language + '</td>'
     out += '<td>' + stat.location + '</td>'
-    out += '<td><img width="30" height="30" src="' + stat.gravatar + '"></td>'
+    out += '<td><img width="30" height="30" src="' + stat.gravatar.replace('?s=140', '?s=30') + '"></td>'
     out += '</tr>\n'
   })
 
