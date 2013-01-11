@@ -15,8 +15,10 @@ function sortStats(filename, outfile) {
     var stat = stats[username]
     var contributions = stat.contributions
 
-    cache[contributions] = cache[contributions] || []
-    cache[contributions].push(stat)
+    if (contributions > 0) {
+      cache[contributions] = cache[contributions] || []
+      cache[contributions].push(stat)
+    }
   })
 
   for (var i = MAX_CONTRIBUTIONS; i >= 0; i--) {
