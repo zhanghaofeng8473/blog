@@ -9,7 +9,9 @@ util.getPages(getSearchUrls(MAX_PAGES, 'followers%3A%3E0'), parseUsersStats, fun
 
   stats = {}
   util.getPages(getSearchUrls(MAX_PAGES, 'location%3Achina'), parseUsersStats, function() {
-    util.saveStats('github-users-stats-china.json', stats)
+    util.getPages(getSearchUrls(MAX_PAGES, 'location%3Ataiwan'), parseUsersStats, function() {
+      util.saveStats('github-users-stats-china.json', stats)
+    })
   })
 })
 
