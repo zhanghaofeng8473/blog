@@ -8,7 +8,8 @@ var rules = [
   ///(\w+\.){1,2}github\.com/,
   //'seajs.org',
 
-  'mail.google.com',
+  'google.com',
+//  'github.com',
   'dropbox.com',
 
   'youtube',
