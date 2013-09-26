@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<title>test</title>
+</head>
+<body>
+<iframe id="ifr" src="ifr.html"></iframe>
+
+<div id="o"></div>
+
+<script>
+
+  function isType(type) {
+    return function(obj) {
+      return {}.toString.call(obj) == "[object " + type + "]"
+    }
+  }
+
+  var isObject = isType("Object")
+  var isString = isType("String")
+  var isArray = isType("Array")
+  var isFunction = isType("Function")
+
+
+  var ifr = document.getElementById("ifr").contentWindow
+  var nwn = window.open("nwn.html")
+  var out = document.getElementById("o")
+
+  function print(msg) {
+    var p = document.createElement('p')
+    p.innerHTML = msg
+    out.appendChild(p)
+  }
+
+
+  setTimeout(done, 1000)
+
+  function done() {
+    print("isObject(ifr.obj) = " + (isObject(ifr.obj)))
+    print("isObject(nwn.obj) = " + (isObject(nwn.obj)))
+
+    print("isString(ifr.str) = " + (isString(ifr.str)))
+    print("isString(nwn.str) = " + (isString(nwn.str)))
+
+    print("isArray(ifr.arr) = " + (isArray(ifr.arr)))
+    print("isArray(nwn.arr) = " + (isArray(nwn.arr)))
+
+    print("isFunction(ifr.fn) = " + (isFunction(ifr.fn)))
+    print("isFunction(nwn.fn) = " + (isFunction(nwn.fn)))
+
+    nwn.close()
+  }
+
+</script>
+
+<p>
+  <a href="http://whattheheadsaid.com/2010/10/cross-context-isarray-and-internet-explorer">http://whattheheadsaid.com/2010/10/cross-context-isarray-and-internet-explorer</a>
+</p>
+
+</body>
+</html>
