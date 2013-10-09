@@ -1,0 +1,2 @@
+print('b.js')
+xxx
